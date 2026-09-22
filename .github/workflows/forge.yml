@@ -1,0 +1,121 @@
+name: Forge
+
+on:
+  workflow_dispatch:
+    inputs:
+      task:
+        description: 'What to run'
+        type: choice
+        options: [build-apk, refresh-trends]
+        default: build-apk
+      food_db:
+        description: 'Offline food database size (full = about 1.9 million foods)'
+        type: choice
+        options: [full, lite]
+        default: full
+      fdc_url:
+        description: 'Optional: direct link to the FoodData Central CSV zip (only if the automatic lookup fails)'
+        required: false
+        default: ''
+      google_web_client_id:
+        description: 'Optional: your Google OAuth Web Client ID (enables Google sign-in and Drive backup). Leave blank to skip.'
+        required: false
+        default: ''
+  schedule:
+    - cron: '17 9 * * *'   # refreshes the trending workouts every day
+
+permissions:
+  contents: write
+
+jobs:
+  trends:
+    if: github.event_name == 'schedule' || inputs.task == 'refresh-trends'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: '3.12' }
+      - name: Unpack project
+        run: unzip -q -o forge-project.zip -d project
+      - name: Build trends.json
+        run: python3 project/scripts/build_trends.py docs/trends.json
+      - name: Save it to the repo
+        run: |
+          git config user.name "forge-bot"
+          git config user.email "forge-bot@users.noreply.github.com"
+          git add docs/trends.json
+          git diff --cached --quiet || (git commit -m "Update trending workouts" && git push)
+
+  apk:
+    if: github.event_name == 'workflow_dispatch' && inputs.task == 'build-apk'
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: 22 }
+      - uses: actions/setup-java@v4
+        with: { distribution: temurin, java-version: 17 }
+      - uses: actions/setup-python@v5
+        with: { python-version: '3.12' }
+
+      - name: Unpack project
+        run: unzip -q -o forge-project.zip -d project
+
+      - name: Create a fresh Expo app
+        run: |
+          npx --yes create-expo-app@latest forge-app --template blank --no-install
+          cd forge-app
+          npm install
+          npx expo install react-native-webview expo-sqlite expo-asset expo-splash-screen expo-status-bar expo-build-properties expo-notifications react-native-safe-area-context @react-native-async-storage/async-storage
+          npm install react-native-health-connect
+          npx expo install @react-native-google-signin/google-signin @react-native-google-signin/google-signin
+
+      - name: Add Forge
+        run: |
+          cd forge-app
+          cp -r ../project/app/. .
+          echo "export const TRENDS_URL = 'https://raw.githubusercontent.com/${GITHUB_REPOSITORY}/main/docs/trends.json';" > src/config.js
+          echo "export const GOOGLE_WEB_CLIENT_ID = '${{ inputs.google_web_client_id }}' || 'YOUR_WEB_CLIENT_ID.apps.googleusercontent.com';" >> src/config.js
+          python3 ../project/scripts/embed_html.py ../project/forge.html src/forgeHtml.js
+
+      - name: Build the offline food database
+        env:
+          FDC_URL: ${{ inputs.fdc_url }}
+        run: |
+          cd forge-app
+          python3 ../project/scripts/build_food_db.py assets/foods.db --mode "${{ inputs.food_db }}"
+          ls -lh assets/foods.db
+
+      - name: Generate the Android project
+        run: |
+          cd forge-app
+          npx expo prebuild --platform android --no-install
+          echo "org.gradle.jvmargs=-Xmx5g -XX:MaxMetaspaceSize=1g" >> android/gradle.properties
+
+      - name: Restore a stable signing key
+        env:
+          FORGE_KEYSTORE_B64: ${{ secrets.FORGE_KEYSTORE_B64 }}
+        run: |
+          if [ -n "$FORGE_KEYSTORE_B64" ]; then
+            echo "$FORGE_KEYSTORE_B64" | base64 -d > forge-app/android/app/debug.keystore
+            echo "Using the FORGE_KEYSTORE_B64 secret — this build will install as an update over any previous one signed with it."
+          else
+            echo "::warning::No FORGE_KEYSTORE_B64 secret set — this build uses whatever debug key Expo generates today. Add the secret (see setup instructions) so every future build can install over the last one instead of needing an uninstall."
+          fi
+
+      - name: Build the APK
+        run: |
+          cd forge-app/android
+          chmod +x gradlew
+          ./gradlew assembleRelease --no-daemon -PreactNativeArchitectures=arm64-v8a
+          cp app/build/outputs/apk/release/app-release.apk ../../forge.apk
+          ls -lh ../../forge.apk
+
+      - name: Publish the APK
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: forge-${{ github.run_number }}
+          name: Forge build ${{ github.run_number }}
+          body: 'Download forge.apk below and install it on your phone.'
+          files: forge.apk
