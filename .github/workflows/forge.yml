@@ -129,9 +129,11 @@ jobs:
           ls -lh ../../forge.apk
 
       - name: Print the APK's actual signing SHA-1
+        continue-on-error: true
         run: |
           echo "Compare this to the SHA-1 registered on the Android OAuth client in Google Cloud Console:"
-          keytool -printcert -jarfile forge.apk | grep -A1 "SHA1:"
+          ls -la "$GITHUB_WORKSPACE/forge.apk"
+          keytool -printcert -jarfile "$GITHUB_WORKSPACE/forge.apk"
 
       - name: Publish the APK
         uses: softprops/action-gh-release@v2
