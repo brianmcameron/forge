@@ -1,6 +1,6 @@
 {
- "generated": "2026-09-22T09:27:50.057644+00:00",
- "headlines_seen": 129,
+ "generated": "2026-09-23T09:29:03.985300+00:00",
+ "headlines_seen": 125,
  "items": [
   {
    "n": "Hyrox-Style Session",
@@ -35,11 +35,11 @@
      "3×20"
     ]
    ],
-   "mentions": 4,
-   "why": "Appeared in 4 news stories this past week.",
+   "mentions": 2,
+   "why": "Appeared in 2 news stories this past week.",
    "src": {
-    "t": "Hyrox changes competition rules after athlete carries on racing despite soiling herself - The New York Times",
-    "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRnBWUGRMRkNnTVBKQUpLSHpZNWJpdjBEejV5UVlaUS0xLWQ4QUNaTTBRcXhiVFU5VllNcjJJNkVNMjl6N2dTVkhUMjlUd2k2am13azNNOHJZaE04WXF0a2RhYzhTeGs0TndyQk9IamxrNzhfUTZRcFJoVnAxWndxSnRxOEIxcndpSGNXQVFxVzNwZ3hQLXdWLQ?oc=5"
+    "t": "7 Best HYROX Shoes in 2026 - RunRepeat",
+    "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1nU21FSkVMTTBVX3Zrdlg3cmN2ZFNJbDgwdllCV1AyNGowOUdEc1Z2ai16M05yOEZrY0ZyZ0thU0RaSWZlZWVLUkhscURndk8zNW9MV01UVGRKUnJsbDNhRk80Zw?oc=5"
    }
   },
   {
@@ -76,46 +76,6 @@
    "src": {
     "t": "Can extreme exercise ever backfire? What an expert wants you to know before starting high-intensity workouts | Health - Hindustan Times",
     "u": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPTmRJS2pncjFybmNaVGlYY3U1ZGN0WXNsNi11dFlPOHQ0bk15clJqZGUtR0J1bEp0enYyWTdnbC1UT29LZ0x6S3h3SEZ2bUJTRzVUZG5oQ29GY0N4QVJaYS00MDY5OF9vOHU0dWdmeXJWbURYS0x2eTMybXd1Sk9oVjVRRXBZRFdzOGFJOU1jdng4ZHJfc3B0OTA1SndmaGhocHhycENjZngxajUtTDRpYmQ3N2tGTVpGbEZNOXpiNmpRQnhHeVgyVjI5SEtfNVVUUGdTZnpsVWFLR1V3eUwydXZyUWNEV3pDWEl1WnYyd0ZFeWhNbEtjY29RWGMyM2RtTFRjY1p3Zlp3ekZyazFwTmxB0gGXAkFVX3lxTE9zVFBQZGo1NUdBb1U1bkFTTkJyQXpKUzFPekt5bmYyR085Y3UxQW1Rb2hCZFZ5Ym41MEU0MHllUFVKSTFxOHdXTXJwMzdCblRqcFVuSUNueGtsZkxJZTJlLWhaVFh1bjh4SVJVZ1VqSlRPU1pzZGJ3SDFzZUhWbHJhV09Fc2oweXBKT0JpTFRCeF9KTUNlQy1ZaEhsbno2emlnZ1U5aFN5NTJYRVpWeFAtSm1tQ1FEY3AxOTZHMWplMmdrNG5kbTJYNFNxU2laVUoyekxMM3FxbmxESER6c3JjclZxVGNkc0MyQUVhcWZYTEVId2VYdHVLWTRSMzVWZkRMSHo4TTZNT3FsM2xPVENZUEFMR3pCYw?oc=5"
-   }
-  },
-  {
-   "n": "Upper Body",
-   "focus": "Chest · Back · Shoulders · Arms",
-   "diff": "Intermediate",
-   "min": 60,
-   "equip": "Barbell, dumbbells, cable",
-   "desc": "The upper day of an upper/lower split with a press and a pull in each plane.",
-   "b": [
-    [
-     "Incline bench press",
-     "4×8"
-    ],
-    [
-     "Barbell row",
-     "4×8"
-    ],
-    [
-     "Dumbbell shoulder press",
-     "3×10"
-    ],
-    [
-     "Lat pulldown",
-     "3×10"
-    ],
-    [
-     "Dumbbell curl",
-     "3×12"
-    ],
-    [
-     "Triceps pushdown",
-     "3×12"
-    ]
-   ],
-   "mentions": 1,
-   "why": "Appeared in 1 news story this past week.",
-   "src": {
-    "t": "This ‘Gym Bro’ Strength Test Reveals How Strong Your Upper Body Really Is — 10 Minutes Is All You Need - Men's Health",
-    "u": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBVTVNVVDVwdXVoTVYzMlJRZ0huN1F1cWFWX2J6S2k0cWNHa01Qd2czT0Q0dTBESzcxSWd1aldRNExrOUtDVk9WeDhVQWViZVdXWEdueDB1b1pYX19MUWtBSm5yMldnOURGZm50S2p2cXFMckMxSzFzU0gxYXU?oc=5"
    }
   },
   {
@@ -159,36 +119,108 @@
    }
   },
   {
-   "n": "5×5 Strength",
-   "focus": "Full-body strength",
-   "diff": "Beginner",
-   "min": 50,
-   "equip": "Barbell, rack, bench",
-   "desc": "Five sets of five on the big lifts. Add a little weight each session. Simple, heavy and repeatable.",
+   "n": "Upper Body",
+   "focus": "Chest · Back · Shoulders · Arms",
+   "diff": "Intermediate",
+   "min": 60,
+   "equip": "Barbell, dumbbells, cable",
+   "desc": "The upper day of an upper/lower split with a press and a pull in each plane.",
    "b": [
     [
-     "Back squat",
-     "5×5"
-    ],
-    [
-     "Bench press",
-     "5×5"
+     "Incline bench press",
+     "4×8"
     ],
     [
      "Barbell row",
-     "5×5"
+     "4×8"
     ],
     [
-     "Overhead press",
-     "5×5"
+     "Dumbbell shoulder press",
+     "3×10"
     ],
     [
-     "Deadlift",
-     "1×5"
+     "Lat pulldown",
+     "3×10"
+    ],
+    [
+     "Dumbbell curl",
+     "3×12"
+    ],
+    [
+     "Triceps pushdown",
+     "3×12"
     ]
    ],
    "mentions": 0,
-   "why": "A classic beginner strength template built on progressive overload."
+   "why": "Upper/lower splits hit each muscle twice a week on four training days."
+  },
+  {
+   "n": "Leg Day",
+   "focus": "Quads · Hamstrings · Calves",
+   "diff": "Intermediate",
+   "min": 65,
+   "equip": "Barbell, machines",
+   "desc": "Squat-based lower-body session with a hinge, a machine quad builder and calf work.",
+   "b": [
+    [
+     "Back squat",
+     "4×6"
+    ],
+    [
+     "Romanian deadlift",
+     "3×8"
+    ],
+    [
+     "Leg press",
+     "3×12"
+    ],
+    [
+     "Walking lunge",
+     "3×12"
+    ],
+    [
+     "Seated leg curl",
+     "3×12"
+    ],
+    [
+     "Calf raise (machine)",
+     "4×15"
+    ]
+   ],
+   "mentions": 0,
+   "why": "Big compound lifts that train the most muscle in one session."
+  },
+  {
+   "n": "Tabata Burn",
+   "focus": "Conditioning",
+   "diff": "Intermediate",
+   "min": 20,
+   "equip": "None",
+   "desc": "Eight rounds of 20 seconds hard, 10 seconds rest, across a few moves.",
+   "b": [
+    [
+     "Burpee",
+     "8×20"
+    ],
+    [
+     "Mountain climber",
+     "8×20"
+    ],
+    [
+     "Squat jump",
+     "8×20"
+    ],
+    [
+     "Push-up",
+     "8×20"
+    ],
+    [
+     "Jump rope",
+     "8×20"
+    ]
+   ],
+   "mentions": 0,
+   "why": "A short, structured interval format that fits any schedule."
   },
   {
    "n": "Push Day",
@@ -227,136 +259,100 @@
    "why": "Push/pull/legs is one of the most common ways to organise a lifting week."
   },
   {
-   "n": "Hybrid Run + Lift",
-   "focus": "Strength · Endurance",
+   "n": "Posterior Chain",
+   "focus": "Glutes · Hamstrings · Lower back",
    "diff": "Intermediate",
-   "min": 60,
-   "equip": "Barbell, dumbbells, road or treadmill",
-   "desc": "Short easy run followed by compound lifts, blending strength and aerobic work in one day.",
+   "min": 55,
+   "equip": "Barbell, dumbbells, kettlebell",
+   "desc": "Hip-hinge focused session for glutes and hamstrings, finished with swings.",
    "b": [
     [
-     "Run",
-     "15 min"
-    ],
-    [
-     "Back squat",
-     "4×6"
-    ],
-    [
-     "Bench press",
-     "4×6"
-    ],
-    [
-     "Barbell row",
+     "Romanian deadlift",
      "4×8"
     ],
     [
-     "Walking lunge",
-     "3×12"
-    ]
-   ],
-   "mentions": 0,
-   "why": "Hybrid training is a common pick for people who want to lift and run."
-  },
-  {
-   "n": "12-3-30 Incline Walk",
-   "focus": "Low-impact cardio",
-   "diff": "Beginner",
-   "min": 30,
-   "equip": "Treadmill",
-   "desc": "Set the treadmill to a 12% incline and 3 mph and walk for 30 minutes. Easy on the joints, surprisingly tough on the legs and lungs.",
-   "b": [
-    [
-     "Treadmill run",
-     "30 min"
+     "Glute bridge",
+     "4×12"
     ],
     [
-     "Hip mobility flow",
-     "3 min"
-    ],
-    [
-     "Calf stretch",
-     "2 min"
-    ],
-    [
-     "Hamstring stretch",
-     "2 min"
-    ],
-    [
-     "Foam roll quads",
-     "3 min"
-    ]
-   ],
-   "mentions": 0,
-   "why": "A viral gym-floor cardio routine."
-  },
-  {
-   "n": "Core & Abs Finisher",
-   "focus": "Abs · Obliques · Lower back",
-   "diff": "Beginner",
-   "min": 20,
-   "equip": "Ab wheel, cable or none",
-   "desc": "A short block to add after any session. Anti-extension, rotation and hip-flexor work.",
-   "b": [
-    [
-     "Hanging leg raise",
-     "3×12"
-    ],
-    [
-     "Ab wheel rollout",
+     "Bulgarian split squat",
      "3×10"
     ],
     [
-     "Russian twist",
-     "3×20"
-    ],
-    [
-     "Woodchopper",
+     "Seated leg curl",
      "3×12"
     ],
     [
-     "Dead bug",
-     "3×12"
-    ],
-    [
-     "Plank",
-     "3×45"
+     "Kettlebell swing",
+     "3×15"
     ]
    ],
    "mentions": 0,
-   "why": "Quick to tack onto the end of a lift."
+   "why": "Strong hips help every other lift and protect the lower back."
   },
   {
-   "n": "Zone 2 Cardio",
-   "focus": "Aerobic base · Recovery",
-   "diff": "Beginner",
-   "min": 40,
-   "equip": "Treadmill, bike or outdoors",
-   "desc": "Steady, conversational-pace cardio. You should be able to talk in full sentences.",
+   "n": "Pull-Up Ladder",
+   "focus": "Back · Grip · Biceps",
+   "diff": "Intermediate",
+   "min": 30,
+   "equip": "Pull-up bar",
+   "desc": "Climb up in reps (1-2-3-4-5), then back down, resting as needed. Builds volume without failure.",
    "b": [
     [
-     "Treadmill run",
-     "30 min"
+     "Pull-up",
+     "5×5"
     ],
     [
-     "Hip mobility flow",
-     "5 min"
+     "Chin-up",
+     "3×6"
     ],
     [
-     "Hamstring stretch",
-     "3 min"
+     "Inverted row",
+     "3×12"
     ],
     [
-     "Foam roll quads",
-     "3 min"
+     "Hanging leg raise",
+     "3×10"
     ],
     [
-     "Calf stretch",
-     "3 min"
+     "Hammer curl",
+     "3×12"
     ]
    ],
    "mentions": 0,
-   "why": "Builds an aerobic base without hurting recovery from lifting."
+   "why": "A simple way to add pull-up volume."
+  },
+  {
+   "n": "Murph Challenge",
+   "focus": "Endurance · Full body",
+   "diff": "Advanced",
+   "min": 60,
+   "equip": "Pull-up bar",
+   "desc": "The famous hero workout: a mile run, 100 pull-ups, 200 push-ups, 300 squats, then another mile. Scale the reps to your level.",
+   "b": [
+    [
+     "Run",
+     "1 mile"
+    ],
+    [
+     "Pull-up",
+     "5×20"
+    ],
+    [
+     "Push-up",
+     "5×40"
+    ],
+    [
+     "Squat jump",
+     "3×100"
+    ],
+    [
+     "Run",
+     "1 mile"
+    ]
+   ],
+   "mentions": 0,
+   "why": "Popular Memorial Day challenge that people repeat as a benchmark."
   }
  ]
 }
