@@ -1,45 +1,205 @@
 {
- "generated": "2026-09-23T09:29:03.985300+00:00",
- "headlines_seen": 125,
+ "generated": "2026-09-24T09:29:41.258935+00:00",
+ "headlines_seen": 138,
  "items": [
   {
-   "n": "Hyrox-Style Session",
-   "focus": "Hybrid fitness · Racing",
-   "diff": "Advanced",
-   "min": 60,
-   "equip": "Sled, rower, SkiErg, wall ball",
-   "desc": "Alternates running with functional stations like sleds, rowing and wall balls, like a fitness race.",
+   "n": "Bodyweight Circuit",
+   "focus": "Calisthenics · Conditioning",
+   "diff": "Intermediate",
+   "min": 40,
+   "equip": "Pull-up bar, floor space",
+   "desc": "No-gym session you can do anywhere: push, pull, single-leg work and core.",
    "b": [
     [
-     "Run",
-     "800 m"
+     "Push-up",
+     "4×15"
     ],
     [
-     "SkiErg",
-     "3×500 m"
+     "Pull-up",
+     "4×8"
     ],
     [
-     "Sled push",
-     "3×25 m"
+     "Bulgarian split squat",
+     "3×10"
     ],
     [
-     "Wall balls",
-     "3×20"
+     "Dip",
+     "3×10"
     ],
     [
-     "Row (erg)",
-     "3×500 m"
+     "Hanging leg raise",
+     "3×12"
     ],
     [
-     "Sandbag lunges",
-     "3×20"
+     "Plank",
+     "3×45"
     ]
    ],
-   "mentions": 2,
-   "why": "Appeared in 2 news stories this past week.",
+   "mentions": 1,
+   "why": "Appeared in 1 news story this past week.",
    "src": {
-    "t": "7 Best HYROX Shoes in 2026 - RunRepeat",
-    "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1nU21FSkVMTTBVX3Zrdlg3cmN2ZFNJbDgwdllCV1AyNGowOUdEc1Z2ai16M05yOEZrY0ZyZ0thU0RaSWZlZWVLUkhscURndk8zNW9MV01UVGRKUnJsbDNhRk80Zw?oc=5"
+    "t": "How Richard Osman, 55, Builds Strength Without the Gym – The Home Workout That Made Exercise Click - Men's Health",
+    "u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONEgyU0hRNXZWdVdmYnNEeVplM18zdDVxM3ZQOWhKa2c1VjhTWlBCUGZLUVNMMUp6TTROWXZOS1E0ejQzY25ITWlQOTdmaElZbW9WdkxfOVJLWGk4NXVwVnV6OTJ4NEQ1enBhaGhTeDFlT0c3SnhTTl9PbXc0STBxQWNOQ2s?oc=5"
+   }
+  },
+  {
+   "n": "Upper Body",
+   "focus": "Chest · Back · Shoulders · Arms",
+   "diff": "Intermediate",
+   "min": 60,
+   "equip": "Barbell, dumbbells, cable",
+   "desc": "The upper day of an upper/lower split with a press and a pull in each plane.",
+   "b": [
+    [
+     "Incline bench press",
+     "4×8"
+    ],
+    [
+     "Barbell row",
+     "4×8"
+    ],
+    [
+     "Dumbbell shoulder press",
+     "3×10"
+    ],
+    [
+     "Lat pulldown",
+     "3×10"
+    ],
+    [
+     "Dumbbell curl",
+     "3×12"
+    ],
+    [
+     "Triceps pushdown",
+     "3×12"
+    ]
+   ],
+   "mentions": 1,
+   "why": "Appeared in 1 news story this past week.",
+   "src": {
+    "t": "This ‘gym bro’ strength test reveals how strong your upper body really is - menshealth.com.au",
+    "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4wMDY5Sk9OMW1zNGNuM0NhR1pxVndwYWpLSXRud0stelRicjI2bEZxU1lMNjVWdEhHUXJhMHE2eFBid0txNzhUNVpXbkJ6ZG10MTkzMHdRYkdTRjdtNGtxTw?oc=5"
+   }
+  },
+  {
+   "n": "Arm Day",
+   "focus": "Biceps · Triceps · Forearms",
+   "diff": "Beginner",
+   "min": 45,
+   "equip": "Barbell, dumbbells, cable",
+   "desc": "Direct arm work with a heavy compound opener and supersets if you want to save time.",
+   "b": [
+    [
+     "Close-grip bench press",
+     "4×8"
+    ],
+    [
+     "Dumbbell curl",
+     "4×10"
+    ],
+    [
+     "Triceps pushdown",
+     "3×12"
+    ],
+    [
+     "Hammer curl",
+     "3×12"
+    ],
+    [
+     "Rope pushdown",
+     "3×12"
+    ],
+    [
+     "Reverse curl",
+     "3×12"
+    ]
+   ],
+   "mentions": 1,
+   "why": "Appeared in 1 news story this past week.",
+   "src": {
+    "t": "The Bicep Ladder Challenge Delivers a ‘Crazy Pump’ in 5 Minutes – See If You Can Finish the 3-Step Workout - Men's Health",
+    "u": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNQmNKaVhXNHVnc3VSMTlqbVpQQ0NNZnBydjMxX0ZFcjJtNWlFSkJOZ1o5UHdxVFZ1SjZuYS1XT1pSQVQwMFMycGI4akZuc1dpSDEwV3NzbUhvRUR0RVhxc0FKaUpSd0R0Qjc2YktDYXNybGtfT2RqZTVzUDJHNGhVT0Z1WEdQYnM?oc=5"
+   }
+  },
+  {
+   "n": "Full-Body Dumbbells",
+   "focus": "Full body",
+   "diff": "Beginner",
+   "min": 40,
+   "equip": "Dumbbells",
+   "desc": "One pair of dumbbells, every major muscle group, three sets each.",
+   "b": [
+    [
+     "KB goblet squat",
+     "3×12"
+    ],
+    [
+     "Dumbbell bench press",
+     "3×10"
+    ],
+    [
+     "Dumbbell row",
+     "3×10"
+    ],
+    [
+     "Dumbbell shoulder press",
+     "3×10"
+    ],
+    [
+     "Walking lunge",
+     "3×12"
+    ],
+    [
+     "Plank",
+     "3×45"
+    ]
+   ],
+   "mentions": 1,
+   "why": "Appeared in 1 news story this past week.",
+   "src": {
+    "t": "Trainer Shares a Full-Body Hybrid Conditioning Workout for Men Over 40 - AOL.com",
+    "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSEM3RUV1MThNQmxZa3hkMy0wdDBSMEc3RmtlalZTbUcwdjZFZGs4SjFQdkh0YXdCbVp5WGFYY1FkRWJOcWs2MFhBOWtrM3d5YlBSZ1pGSlVPNjRCVDVid21rVWFKRjcxOG92aFZYXzg1SHlQVm4wWDdSQVp2SkZXQg?oc=5"
+   }
+  },
+  {
+   "n": "Shoulders & Traps",
+   "focus": "Delts · Traps · Rear delts",
+   "diff": "Intermediate",
+   "min": 50,
+   "equip": "Barbell, dumbbells",
+   "desc": "Pressing for strength, raises for width and rear-delt work for posture.",
+   "b": [
+    [
+     "Overhead press",
+     "4×8"
+    ],
+    [
+     "Dumbbell lateral raise",
+     "4×15"
+    ],
+    [
+     "Rear delt fly",
+     "3×15"
+    ],
+    [
+     "Arnold press",
+     "3×10"
+    ],
+    [
+     "Dumbbell front raise",
+     "3×12"
+    ],
+    [
+     "Dumbbell shrug",
+     "3×12"
+    ]
+   ],
+   "mentions": 1,
+   "why": "Appeared in 1 news story this past week.",
+   "src": {
+    "t": "Stop Training Your Front Delts First if You Want Wider Shoulders - AOL.com",
+    "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMGVTSkxpRC03MFpaUE5CaVRIZVNyUXJXVEhnLUxKc19BbGowRllTdElKMWNJajRzRXNsc1VmNDFJRWJBa0l3NlFERFhZeE82aU90UHN6S01uUllkcVZsYi1maGRCR1hvNnRxbU13YUFYNmU0eEhfbGk2ZU4xT0QzTA?oc=5"
    }
   },
   {
@@ -79,31 +239,31 @@
    }
   },
   {
-   "n": "Full-Body Dumbbells",
-   "focus": "Full body",
+   "n": "Core & Abs Finisher",
+   "focus": "Abs · Obliques · Lower back",
    "diff": "Beginner",
-   "min": 40,
-   "equip": "Dumbbells",
-   "desc": "One pair of dumbbells, every major muscle group, three sets each.",
+   "min": 20,
+   "equip": "Ab wheel, cable or none",
+   "desc": "A short block to add after any session. Anti-extension, rotation and hip-flexor work.",
    "b": [
     [
-     "KB goblet squat",
+     "Hanging leg raise",
      "3×12"
     ],
     [
-     "Dumbbell bench press",
+     "Ab wheel rollout",
      "3×10"
     ],
     [
-     "Dumbbell row",
-     "3×10"
+     "Russian twist",
+     "3×20"
     ],
     [
-     "Dumbbell shoulder press",
-     "3×10"
+     "Woodchopper",
+     "3×12"
     ],
     [
-     "Walking lunge",
+     "Dead bug",
      "3×12"
     ],
     [
@@ -111,116 +271,80 @@
      "3×45"
     ]
    ],
-   "mentions": 1,
-   "why": "Appeared in 1 news story this past week.",
-   "src": {
-    "t": "Train Like The Deep from The Boys Series – Chace Crawford’s Full-Body Workout Routine - BOXROX",
-    "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE53ZVAySXd1TUFkVXg0ci1HZVRlLVctZmVqdUhmQ1o4UHBfOWtJSE1fZzlSXzRoWkpYeXIzZkV0SUU1VGhHTlljQ2lIR0JoT1lwTTEwR2ppeTlCSFNEOEZLQTRMS1pFbm1EY0p2cDRscmE3R2c?oc=5"
-   }
-  },
-  {
-   "n": "Upper Body",
-   "focus": "Chest · Back · Shoulders · Arms",
-   "diff": "Intermediate",
-   "min": 60,
-   "equip": "Barbell, dumbbells, cable",
-   "desc": "The upper day of an upper/lower split with a press and a pull in each plane.",
-   "b": [
-    [
-     "Incline bench press",
-     "4×8"
-    ],
-    [
-     "Barbell row",
-     "4×8"
-    ],
-    [
-     "Dumbbell shoulder press",
-     "3×10"
-    ],
-    [
-     "Lat pulldown",
-     "3×10"
-    ],
-    [
-     "Dumbbell curl",
-     "3×12"
-    ],
-    [
-     "Triceps pushdown",
-     "3×12"
-    ]
-   ],
    "mentions": 0,
-   "why": "Upper/lower splits hit each muscle twice a week on four training days."
+   "why": "Quick to tack onto the end of a lift."
   },
   {
-   "n": "Leg Day",
-   "focus": "Quads · Hamstrings · Calves",
+   "n": "Kettlebell Conditioning",
+   "focus": "Power · Conditioning",
    "diff": "Intermediate",
-   "min": 65,
-   "equip": "Barbell, machines",
-   "desc": "Squat-based lower-body session with a hinge, a machine quad builder and calf work.",
+   "min": 35,
+   "equip": "One or two kettlebells",
+   "desc": "Swings and squats for the legs and hips, presses and rows for the upper body, finished with a get-up.",
    "b": [
     [
-     "Back squat",
-     "4×6"
+     "Kettlebell swing",
+     "5×20"
     ],
     [
-     "Romanian deadlift",
+     "KB goblet squat",
+     "4×12"
+    ],
+    [
+     "KB press",
      "3×8"
     ],
     [
-     "Leg press",
-     "3×12"
+     "KB row",
+     "3×10"
     ],
     [
-     "Walking lunge",
-     "3×12"
+     "Turkish get-up",
+     "3×3"
     ],
     [
-     "Seated leg curl",
-     "3×12"
-    ],
-    [
-     "Calf raise (machine)",
-     "4×15"
+     "Russian twist",
+     "3×20"
     ]
    ],
    "mentions": 0,
-   "why": "Big compound lifts that train the most muscle in one session."
+   "why": "One piece of equipment, a full-body sweat in half an hour."
   },
   {
-   "n": "Tabata Burn",
-   "focus": "Conditioning",
-   "diff": "Intermediate",
-   "min": 20,
-   "equip": "None",
-   "desc": "Eight rounds of 20 seconds hard, 10 seconds rest, across a few moves.",
+   "n": "Hyrox-Style Session",
+   "focus": "Hybrid fitness · Racing",
+   "diff": "Advanced",
+   "min": 60,
+   "equip": "Sled, rower, SkiErg, wall ball",
+   "desc": "Alternates running with functional stations like sleds, rowing and wall balls, like a fitness race.",
    "b": [
     [
-     "Burpee",
-     "8×20"
+     "Run",
+     "800 m"
     ],
     [
-     "Mountain climber",
-     "8×20"
+     "SkiErg",
+     "3×500 m"
     ],
     [
-     "Squat jump",
-     "8×20"
+     "Sled push",
+     "3×25 m"
     ],
     [
-     "Push-up",
-     "8×20"
+     "Wall balls",
+     "3×20"
     ],
     [
-     "Jump rope",
-     "8×20"
+     "Row (erg)",
+     "3×500 m"
+    ],
+    [
+     "Sandbag lunges",
+     "3×20"
     ]
    ],
    "mentions": 0,
-   "why": "A short, structured interval format that fits any schedule."
+   "why": "Hybrid fitness racing keeps growing in gyms."
   },
   {
    "n": "Push Day",
@@ -257,102 +381,6 @@
    ],
    "mentions": 0,
    "why": "Push/pull/legs is one of the most common ways to organise a lifting week."
-  },
-  {
-   "n": "Posterior Chain",
-   "focus": "Glutes · Hamstrings · Lower back",
-   "diff": "Intermediate",
-   "min": 55,
-   "equip": "Barbell, dumbbells, kettlebell",
-   "desc": "Hip-hinge focused session for glutes and hamstrings, finished with swings.",
-   "b": [
-    [
-     "Romanian deadlift",
-     "4×8"
-    ],
-    [
-     "Glute bridge",
-     "4×12"
-    ],
-    [
-     "Bulgarian split squat",
-     "3×10"
-    ],
-    [
-     "Seated leg curl",
-     "3×12"
-    ],
-    [
-     "Kettlebell swing",
-     "3×15"
-    ]
-   ],
-   "mentions": 0,
-   "why": "Strong hips help every other lift and protect the lower back."
-  },
-  {
-   "n": "Pull-Up Ladder",
-   "focus": "Back · Grip · Biceps",
-   "diff": "Intermediate",
-   "min": 30,
-   "equip": "Pull-up bar",
-   "desc": "Climb up in reps (1-2-3-4-5), then back down, resting as needed. Builds volume without failure.",
-   "b": [
-    [
-     "Pull-up",
-     "5×5"
-    ],
-    [
-     "Chin-up",
-     "3×6"
-    ],
-    [
-     "Inverted row",
-     "3×12"
-    ],
-    [
-     "Hanging leg raise",
-     "3×10"
-    ],
-    [
-     "Hammer curl",
-     "3×12"
-    ]
-   ],
-   "mentions": 0,
-   "why": "A simple way to add pull-up volume."
-  },
-  {
-   "n": "Murph Challenge",
-   "focus": "Endurance · Full body",
-   "diff": "Advanced",
-   "min": 60,
-   "equip": "Pull-up bar",
-   "desc": "The famous hero workout: a mile run, 100 pull-ups, 200 push-ups, 300 squats, then another mile. Scale the reps to your level.",
-   "b": [
-    [
-     "Run",
-     "1 mile"
-    ],
-    [
-     "Pull-up",
-     "5×20"
-    ],
-    [
-     "Push-up",
-     "5×40"
-    ],
-    [
-     "Squat jump",
-     "3×100"
-    ],
-    [
-     "Run",
-     "1 mile"
-    ]
-   ],
-   "mentions": 0,
-   "why": "Popular Memorial Day challenge that people repeat as a benchmark."
   }
  ]
 }
