@@ -1,7 +1,123 @@
 {
- "generated": "2026-09-24T09:29:41.258935+00:00",
- "headlines_seen": 138,
+ "generated": "2026-09-25T09:30:06.225471+00:00",
+ "headlines_seen": 147,
  "items": [
+  {
+   "n": "Upper Body",
+   "focus": "Chest · Back · Shoulders · Arms",
+   "diff": "Intermediate",
+   "min": 60,
+   "equip": "Barbell, dumbbells, cable",
+   "desc": "The upper day of an upper/lower split with a press and a pull in each plane.",
+   "b": [
+    [
+     "Incline bench press",
+     "4×8"
+    ],
+    [
+     "Barbell row",
+     "4×8"
+    ],
+    [
+     "Dumbbell shoulder press",
+     "3×10"
+    ],
+    [
+     "Lat pulldown",
+     "3×10"
+    ],
+    [
+     "Dumbbell curl",
+     "3×12"
+    ],
+    [
+     "Triceps pushdown",
+     "3×12"
+    ]
+   ],
+   "mentions": 2,
+   "why": "Appeared in 2 news stories this past week.",
+   "src": {
+    "t": "2x Mr. Olympia Derek Lunsford Reveals the High-Intensity Chest Workout Behind His Massive Upper Body - Men's Journal",
+    "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPNk1lOVF0cVJUbVBsbnpTUDR3WGFPczh1RXBUcmNyUlNTVW9EUmpJdGstWWs1NzVmUmF2bklGektpa01PcFYxVHdUaUtrVzBWS0hWSGRhQUhpTHA2UWVBVXB0SFZNbmFNRjZyZm5kZ2NmQ0c5eEdHc1NNdUVDUzlGeg?oc=5"
+   }
+  },
+  {
+   "n": "HIIT Intervals",
+   "focus": "Conditioning · Fat burn",
+   "diff": "Advanced",
+   "min": 25,
+   "equip": "Bike or open space",
+   "desc": "Short, hard efforts with rest between. Keep the quality high and stop when form slips.",
+   "b": [
+    [
+     "Assault bike",
+     "10 min"
+    ],
+    [
+     "Burpee",
+     "4×12"
+    ],
+    [
+     "Box jump",
+     "4×8"
+    ],
+    [
+     "Mountain climber",
+     "4×30"
+    ],
+    [
+     "Jump rope",
+     "4×60"
+    ]
+   ],
+   "mentions": 2,
+   "why": "Appeared in 2 news stories this past week.",
+   "src": {
+    "t": "2x Mr. Olympia Derek Lunsford Reveals the High-Intensity Chest Workout Behind His Massive Upper Body - Men's Journal",
+    "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPNk1lOVF0cVJUbVBsbnpTUDR3WGFPczh1RXBUcmNyUlNTVW9EUmpJdGstWWs1NzVmUmF2bklGektpa01PcFYxVHdUaUtrVzBWS0hWSGRhQUhpTHA2UWVBVXB0SFZNbmFNRjZyZm5kZ2NmQ0c5eEdHc1NNdUVDUzlGeg?oc=5"
+   }
+  },
+  {
+   "n": "Hyrox-Style Session",
+   "focus": "Hybrid fitness · Racing",
+   "diff": "Advanced",
+   "min": 60,
+   "equip": "Sled, rower, SkiErg, wall ball",
+   "desc": "Alternates running with functional stations like sleds, rowing and wall balls, like a fitness race.",
+   "b": [
+    [
+     "Run",
+     "800 m"
+    ],
+    [
+     "SkiErg",
+     "3×500 m"
+    ],
+    [
+     "Sled push",
+     "3×25 m"
+    ],
+    [
+     "Wall balls",
+     "3×20"
+    ],
+    [
+     "Row (erg)",
+     "3×500 m"
+    ],
+    [
+     "Sandbag lunges",
+     "3×20"
+    ]
+   ],
+   "mentions": 2,
+   "why": "Appeared in 2 news stories this past week.",
+   "src": {
+    "t": "7 Best HYROX Shoes in 2026 - RunRepeat",
+    "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1nU21FSkVMTTBVX3Zrdlg3cmN2ZFNJbDgwdllCV1AyNGowOUdEc1Z2ai16M05yOEZrY0ZyZ0thU0RaSWZlZWVLUkhscURndk8zNW9MV01UVGRKUnJsbDNhRk80Zw?oc=5"
+   }
+  },
   {
    "n": "Bodyweight Circuit",
    "focus": "Calisthenics · Conditioning",
@@ -40,46 +156,6 @@
    "src": {
     "t": "How Richard Osman, 55, Builds Strength Without the Gym – The Home Workout That Made Exercise Click - Men's Health",
     "u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONEgyU0hRNXZWdVdmYnNEeVplM18zdDVxM3ZQOWhKa2c1VjhTWlBCUGZLUVNMMUp6TTROWXZOS1E0ejQzY25ITWlQOTdmaElZbW9WdkxfOVJLWGk4NXVwVnV6OTJ4NEQ1enBhaGhTeDFlT0c3SnhTTl9PbXc0STBxQWNOQ2s?oc=5"
-   }
-  },
-  {
-   "n": "Upper Body",
-   "focus": "Chest · Back · Shoulders · Arms",
-   "diff": "Intermediate",
-   "min": 60,
-   "equip": "Barbell, dumbbells, cable",
-   "desc": "The upper day of an upper/lower split with a press and a pull in each plane.",
-   "b": [
-    [
-     "Incline bench press",
-     "4×8"
-    ],
-    [
-     "Barbell row",
-     "4×8"
-    ],
-    [
-     "Dumbbell shoulder press",
-     "3×10"
-    ],
-    [
-     "Lat pulldown",
-     "3×10"
-    ],
-    [
-     "Dumbbell curl",
-     "3×12"
-    ],
-    [
-     "Triceps pushdown",
-     "3×12"
-    ]
-   ],
-   "mentions": 1,
-   "why": "Appeared in 1 news story this past week.",
-   "src": {
-    "t": "This ‘gym bro’ strength test reveals how strong your upper body really is - menshealth.com.au",
-    "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4wMDY5Sk9OMW1zNGNuM0NhR1pxVndwYWpLSXRud0stelRicjI2bEZxU1lMNjVWdEhHUXJhMHE2eFBid0txNzhUNVpXbkJ6ZG10MTkzMHdRYkdTRjdtNGtxTw?oc=5"
    }
   },
   {
@@ -123,46 +199,6 @@
    }
   },
   {
-   "n": "Full-Body Dumbbells",
-   "focus": "Full body",
-   "diff": "Beginner",
-   "min": 40,
-   "equip": "Dumbbells",
-   "desc": "One pair of dumbbells, every major muscle group, three sets each.",
-   "b": [
-    [
-     "KB goblet squat",
-     "3×12"
-    ],
-    [
-     "Dumbbell bench press",
-     "3×10"
-    ],
-    [
-     "Dumbbell row",
-     "3×10"
-    ],
-    [
-     "Dumbbell shoulder press",
-     "3×10"
-    ],
-    [
-     "Walking lunge",
-     "3×12"
-    ],
-    [
-     "Plank",
-     "3×45"
-    ]
-   ],
-   "mentions": 1,
-   "why": "Appeared in 1 news story this past week.",
-   "src": {
-    "t": "Trainer Shares a Full-Body Hybrid Conditioning Workout for Men Over 40 - AOL.com",
-    "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSEM3RUV1MThNQmxZa3hkMy0wdDBSMEc3RmtlalZTbUcwdjZFZGs4SjFQdkh0YXdCbVp5WGFYY1FkRWJOcWs2MFhBOWtrM3d5YlBSZ1pGSlVPNjRCVDVid21rVWFKRjcxOG92aFZYXzg1SHlQVm4wWDdSQVp2SkZXQg?oc=5"
-   }
-  },
-  {
    "n": "Shoulders & Traps",
    "focus": "Delts · Traps · Rear delts",
    "diff": "Intermediate",
@@ -198,153 +234,9 @@
    "mentions": 1,
    "why": "Appeared in 1 news story this past week.",
    "src": {
-    "t": "Stop Training Your Front Delts First if You Want Wider Shoulders - AOL.com",
-    "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMGVTSkxpRC03MFpaUE5CaVRIZVNyUXJXVEhnLUxKc19BbGowRllTdElKMWNJajRzRXNsc1VmNDFJRWJBa0l3NlFERFhZeE82aU90UHN6S01uUllkcVZsYi1maGRCR1hvNnRxbU13YUFYNmU0eEhfbGk2ZU4xT0QzTA?oc=5"
+    "t": "Steal David Corenswet's Old-School Push Workout for a Bigger Chest, Shoulders and Arms - Men's Health",
+    "u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdjJwc3JkX0VYdnRGb0c4cERGMTBIN1FWbW1VdURhclF2dTJIbVhjckVoN2tzVDMzX0RtdlFzcjQ2elJsYk0xQ3VGOWpnbHcxVFpMaXRESC04NUJMenBJclBSY2xfSTR6bUI0ZjlHcnlGSjRXMXUyRDRiNTFncUU3NjZjYTQ?oc=5"
    }
-  },
-  {
-   "n": "HIIT Intervals",
-   "focus": "Conditioning · Fat burn",
-   "diff": "Advanced",
-   "min": 25,
-   "equip": "Bike or open space",
-   "desc": "Short, hard efforts with rest between. Keep the quality high and stop when form slips.",
-   "b": [
-    [
-     "Assault bike",
-     "10 min"
-    ],
-    [
-     "Burpee",
-     "4×12"
-    ],
-    [
-     "Box jump",
-     "4×8"
-    ],
-    [
-     "Mountain climber",
-     "4×30"
-    ],
-    [
-     "Jump rope",
-     "4×60"
-    ]
-   ],
-   "mentions": 1,
-   "why": "Appeared in 1 news story this past week.",
-   "src": {
-    "t": "Can extreme exercise ever backfire? What an expert wants you to know before starting high-intensity workouts | Health - Hindustan Times",
-    "u": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPTmRJS2pncjFybmNaVGlYY3U1ZGN0WXNsNi11dFlPOHQ0bk15clJqZGUtR0J1bEp0enYyWTdnbC1UT29LZ0x6S3h3SEZ2bUJTRzVUZG5oQ29GY0N4QVJaYS00MDY5OF9vOHU0dWdmeXJWbURYS0x2eTMybXd1Sk9oVjVRRXBZRFdzOGFJOU1jdng4ZHJfc3B0OTA1SndmaGhocHhycENjZngxajUtTDRpYmQ3N2tGTVpGbEZNOXpiNmpRQnhHeVgyVjI5SEtfNVVUUGdTZnpsVWFLR1V3eUwydXZyUWNEV3pDWEl1WnYyd0ZFeWhNbEtjY29RWGMyM2RtTFRjY1p3Zlp3ekZyazFwTmxB0gGXAkFVX3lxTE9zVFBQZGo1NUdBb1U1bkFTTkJyQXpKUzFPekt5bmYyR085Y3UxQW1Rb2hCZFZ5Ym41MEU0MHllUFVKSTFxOHdXTXJwMzdCblRqcFVuSUNueGtsZkxJZTJlLWhaVFh1bjh4SVJVZ1VqSlRPU1pzZGJ3SDFzZUhWbHJhV09Fc2oweXBKT0JpTFRCeF9KTUNlQy1ZaEhsbno2emlnZ1U5aFN5NTJYRVpWeFAtSm1tQ1FEY3AxOTZHMWplMmdrNG5kbTJYNFNxU2laVUoyekxMM3FxbmxESER6c3JjclZxVGNkc0MyQUVhcWZYTEVId2VYdHVLWTRSMzVWZkRMSHo4TTZNT3FsM2xPVENZUEFMR3pCYw?oc=5"
-   }
-  },
-  {
-   "n": "Core & Abs Finisher",
-   "focus": "Abs · Obliques · Lower back",
-   "diff": "Beginner",
-   "min": 20,
-   "equip": "Ab wheel, cable or none",
-   "desc": "A short block to add after any session. Anti-extension, rotation and hip-flexor work.",
-   "b": [
-    [
-     "Hanging leg raise",
-     "3×12"
-    ],
-    [
-     "Ab wheel rollout",
-     "3×10"
-    ],
-    [
-     "Russian twist",
-     "3×20"
-    ],
-    [
-     "Woodchopper",
-     "3×12"
-    ],
-    [
-     "Dead bug",
-     "3×12"
-    ],
-    [
-     "Plank",
-     "3×45"
-    ]
-   ],
-   "mentions": 0,
-   "why": "Quick to tack onto the end of a lift."
-  },
-  {
-   "n": "Kettlebell Conditioning",
-   "focus": "Power · Conditioning",
-   "diff": "Intermediate",
-   "min": 35,
-   "equip": "One or two kettlebells",
-   "desc": "Swings and squats for the legs and hips, presses and rows for the upper body, finished with a get-up.",
-   "b": [
-    [
-     "Kettlebell swing",
-     "5×20"
-    ],
-    [
-     "KB goblet squat",
-     "4×12"
-    ],
-    [
-     "KB press",
-     "3×8"
-    ],
-    [
-     "KB row",
-     "3×10"
-    ],
-    [
-     "Turkish get-up",
-     "3×3"
-    ],
-    [
-     "Russian twist",
-     "3×20"
-    ]
-   ],
-   "mentions": 0,
-   "why": "One piece of equipment, a full-body sweat in half an hour."
-  },
-  {
-   "n": "Hyrox-Style Session",
-   "focus": "Hybrid fitness · Racing",
-   "diff": "Advanced",
-   "min": 60,
-   "equip": "Sled, rower, SkiErg, wall ball",
-   "desc": "Alternates running with functional stations like sleds, rowing and wall balls, like a fitness race.",
-   "b": [
-    [
-     "Run",
-     "800 m"
-    ],
-    [
-     "SkiErg",
-     "3×500 m"
-    ],
-    [
-     "Sled push",
-     "3×25 m"
-    ],
-    [
-     "Wall balls",
-     "3×20"
-    ],
-    [
-     "Row (erg)",
-     "3×500 m"
-    ],
-    [
-     "Sandbag lunges",
-     "3×20"
-    ]
-   ],
-   "mentions": 0,
-   "why": "Hybrid fitness racing keeps growing in gyms."
   },
   {
    "n": "Push Day",
@@ -379,8 +271,108 @@
      "3×10"
     ]
    ],
+   "mentions": 1,
+   "why": "Appeared in 1 news story this past week.",
+   "src": {
+    "t": "Steal David Corenswet's Old-School Push Workout for a Bigger Chest, Shoulders and Arms - Men's Health",
+    "u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdjJwc3JkX0VYdnRGb0c4cERGMTBIN1FWbW1VdURhclF2dTJIbVhjckVoN2tzVDMzX0RtdlFzcjQ2elJsYk0xQ3VGOWpnbHcxVFpMaXRESC04NUJMenBJclBSY2xfSTR6bUI0ZjlHcnlGSjRXMXUyRDRiNTFncUU3NjZjYTQ?oc=5"
+   }
+  },
+  {
+   "n": "Tabata Burn",
+   "focus": "Conditioning",
+   "diff": "Intermediate",
+   "min": 20,
+   "equip": "None",
+   "desc": "Eight rounds of 20 seconds hard, 10 seconds rest, across a few moves.",
+   "b": [
+    [
+     "Burpee",
+     "8×20"
+    ],
+    [
+     "Mountain climber",
+     "8×20"
+    ],
+    [
+     "Squat jump",
+     "8×20"
+    ],
+    [
+     "Push-up",
+     "8×20"
+    ],
+    [
+     "Jump rope",
+     "8×20"
+    ]
+   ],
    "mentions": 0,
-   "why": "Push/pull/legs is one of the most common ways to organise a lifting week."
+   "why": "A short, structured interval format that fits any schedule."
+  },
+  {
+   "n": "12-3-30 Incline Walk",
+   "focus": "Low-impact cardio",
+   "diff": "Beginner",
+   "min": 30,
+   "equip": "Treadmill",
+   "desc": "Set the treadmill to a 12% incline and 3 mph and walk for 30 minutes. Easy on the joints, surprisingly tough on the legs and lungs.",
+   "b": [
+    [
+     "Treadmill run",
+     "30 min"
+    ],
+    [
+     "Hip mobility flow",
+     "3 min"
+    ],
+    [
+     "Calf stretch",
+     "2 min"
+    ],
+    [
+     "Hamstring stretch",
+     "2 min"
+    ],
+    [
+     "Foam roll quads",
+     "3 min"
+    ]
+   ],
+   "mentions": 0,
+   "why": "A viral gym-floor cardio routine."
+  },
+  {
+   "n": "Murph Challenge",
+   "focus": "Endurance · Full body",
+   "diff": "Advanced",
+   "min": 60,
+   "equip": "Pull-up bar",
+   "desc": "The famous hero workout: a mile run, 100 pull-ups, 200 push-ups, 300 squats, then another mile. Scale the reps to your level.",
+   "b": [
+    [
+     "Run",
+     "1 mile"
+    ],
+    [
+     "Pull-up",
+     "5×20"
+    ],
+    [
+     "Push-up",
+     "5×40"
+    ],
+    [
+     "Squat jump",
+     "3×100"
+    ],
+    [
+     "Run",
+     "1 mile"
+    ]
+   ],
+   "mentions": 0,
+   "why": "Popular Memorial Day challenge that people repeat as a benchmark."
   }
  ]
 }
