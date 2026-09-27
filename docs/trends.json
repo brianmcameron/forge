@@ -1,6 +1,6 @@
 {
- "generated": "2026-09-26T09:27:31.284129+00:00",
- "headlines_seen": 157,
+ "generated": "2026-09-27T09:27:56.642762+00:00",
+ "headlines_seen": 165,
  "items": [
   {
    "n": "Hyrox-Style Session",
@@ -35,47 +35,11 @@
      "3×20"
     ]
    ],
-   "mentions": 3,
-   "why": "Appeared in 3 news stories this past week.",
-   "src": {
-    "t": "7 Best HYROX Shoes in 2026 - RunRepeat",
-    "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1nU21FSkVMTTBVX3Zrdlg3cmN2ZFNJbDgwdllCV1AyNGowOUdEc1Z2ai16M05yOEZrY0ZyZ0thU0RaSWZlZWVLUkhscURndk8zNW9MV01UVGRKUnJsbDNhRk80Zw?oc=5"
-   }
-  },
-  {
-   "n": "HIIT Intervals",
-   "focus": "Conditioning · Fat burn",
-   "diff": "Advanced",
-   "min": 25,
-   "equip": "Bike or open space",
-   "desc": "Short, hard efforts with rest between. Keep the quality high and stop when form slips.",
-   "b": [
-    [
-     "Assault bike",
-     "10 min"
-    ],
-    [
-     "Burpee",
-     "4×12"
-    ],
-    [
-     "Box jump",
-     "4×8"
-    ],
-    [
-     "Mountain climber",
-     "4×30"
-    ],
-    [
-     "Jump rope",
-     "4×60"
-    ]
-   ],
    "mentions": 2,
    "why": "Appeared in 2 news stories this past week.",
    "src": {
-    "t": "2x Mr. Olympia Derek Lunsford Reveals the High-Intensity Chest Workout Behind His Massive Upper Body - Men's Journal",
-    "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPNk1lOVF0cVJUbVBsbnpTUDR3WGFPczh1RXBUcmNyUlNTVW9EUmpJdGstWWs1NzVmUmF2bklGektpa01PcFYxVHdUaUtrVzBWS0hWSGRhQUhpTHA2UWVBVXB0SFZNbmFNRjZyZm5kZ2NmQ0c5eEdHc1NNdUVDUzlGeg?oc=5"
+    "t": "7 Best HYROX Shoes in 2026 - RunRepeat",
+    "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1nU21FSkVMTTBVX3Zrdlg3cmN2ZFNJbDgwdllCV1AyNGowOUdEc1Z2ai16M05yOEZrY0ZyZ0thU0RaSWZlZWVLUkhscURndk8zNW9MV01UVGRKUnJsbDNhRk80Zw?oc=5"
    }
   },
   {
@@ -109,6 +73,42 @@
     [
      "Triceps pushdown",
      "3×12"
+    ]
+   ],
+   "mentions": 2,
+   "why": "Appeared in 2 news stories this past week.",
+   "src": {
+    "t": "2x Mr. Olympia Derek Lunsford Reveals the High-Intensity Chest Workout Behind His Massive Upper Body - Men's Journal",
+    "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPNk1lOVF0cVJUbVBsbnpTUDR3WGFPczh1RXBUcmNyUlNTVW9EUmpJdGstWWs1NzVmUmF2bklGektpa01PcFYxVHdUaUtrVzBWS0hWSGRhQUhpTHA2UWVBVXB0SFZNbmFNRjZyZm5kZ2NmQ0c5eEdHc1NNdUVDUzlGeg?oc=5"
+   }
+  },
+  {
+   "n": "HIIT Intervals",
+   "focus": "Conditioning · Fat burn",
+   "diff": "Advanced",
+   "min": 25,
+   "equip": "Bike or open space",
+   "desc": "Short, hard efforts with rest between. Keep the quality high and stop when form slips.",
+   "b": [
+    [
+     "Assault bike",
+     "10 min"
+    ],
+    [
+     "Burpee",
+     "4×12"
+    ],
+    [
+     "Box jump",
+     "4×8"
+    ],
+    [
+     "Mountain climber",
+     "4×30"
+    ],
+    [
+     "Jump rope",
+     "4×60"
     ]
    ],
    "mentions": 2,
@@ -156,6 +156,46 @@
    "src": {
     "t": "Inside the AI-Powered Mortal Kombat II Workout That Got This 30-Something a Shredded Six-Pack in 12 Weeks - Men's Journal",
     "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRzRXMnBYeFdRYXdEdVJCRmpPQThZMmNubUhPcE5zcUtUVGlHc2ZCSVA3U0VUOWYzZGZORWlRbUQ1cUVHWUZxaTJRSElEN3gzamRRN20yV2xpWTBuTjdRWUFuM0Nfbi13NlZjY1Fna21RaGdFbmlDbEJSMTJyNEg4amdRdlQ5dVRKSnZBbg?oc=5"
+   }
+  },
+  {
+   "n": "Push Day",
+   "focus": "Chest · Shoulders · Triceps",
+   "diff": "Intermediate",
+   "min": 60,
+   "equip": "Barbell, dumbbells, cable",
+   "desc": "The push session of a push/pull/legs split. Heavy pressing first, then higher-rep shoulder and triceps volume.",
+   "b": [
+    [
+     "Bench press",
+     "4×8"
+    ],
+    [
+     "Overhead press",
+     "3×10"
+    ],
+    [
+     "Incline dumbbell press",
+     "3×10"
+    ],
+    [
+     "Dumbbell lateral raise",
+     "3×15"
+    ],
+    [
+     "Triceps pushdown",
+     "3×12"
+    ],
+    [
+     "Dip",
+     "3×10"
+    ]
+   ],
+   "mentions": 1,
+   "why": "Appeared in 1 news story this past week.",
+   "src": {
+    "t": "Steal David Corenswet's Old-School Push Workout for a Bigger Chest, Shoulders and Arms - Men's Health",
+    "u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdjJwc3JkX0VYdnRGb0c4cERGMTBIN1FWbW1VdURhclF2dTJIbVhjckVoN2tzVDMzX0RtdlFzcjQ2elJsYk0xQ3VGOWpnbHcxVFpMaXRESC04NUJMenBJclBSY2xfSTR6bUI0ZjlHcnlGSjRXMXUyRDRiNTFncUU3NjZjYTQ?oc=5"
    }
   },
   {
@@ -231,148 +271,112 @@
      "3×12"
     ]
    ],
-   "mentions": 0,
-   "why": "Wide, capped shoulders are a common goal."
+   "mentions": 1,
+   "why": "Appeared in 1 news story this past week.",
+   "src": {
+    "t": "Steal David Corenswet's Old-School Push Workout for a Bigger Chest, Shoulders and Arms - Men's Health",
+    "u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdjJwc3JkX0VYdnRGb0c4cERGMTBIN1FWbW1VdURhclF2dTJIbVhjckVoN2tzVDMzX0RtdlFzcjQ2elJsYk0xQ3VGOWpnbHcxVFpMaXRESC04NUJMenBJclBSY2xfSTR6bUI0ZjlHcnlGSjRXMXUyRDRiNTFncUU3NjZjYTQ?oc=5"
+   }
   },
   {
-   "n": "Pull Day",
-   "focus": "Back · Biceps · Rear delts",
+   "n": "Hybrid Run + Lift",
+   "focus": "Strength · Endurance",
    "diff": "Intermediate",
    "min": 60,
-   "equip": "Barbell, dumbbells, pull-up bar",
-   "desc": "The pulling half of push/pull/legs. Start with a heavy hinge, then vertical and horizontal pulls, then arms.",
+   "equip": "Barbell, dumbbells, road or treadmill",
+   "desc": "Short easy run followed by compound lifts, blending strength and aerobic work in one day.",
    "b": [
     [
-     "Deadlift",
-     "3×5"
+     "Run",
+     "15 min"
     ],
     [
-     "Pull-up",
-     "4×8"
+     "Back squat",
+     "4×6"
+    ],
+    [
+     "Bench press",
+     "4×6"
     ],
     [
      "Barbell row",
      "4×8"
     ],
     [
-     "Lat pulldown",
-     "3×10"
-    ],
-    [
-     "Rear delt fly",
-     "3×15"
-    ],
-    [
-     "Hammer curl",
+     "Walking lunge",
      "3×12"
     ]
    ],
    "mentions": 0,
-   "why": "Balances all the pressing in your week and builds a stronger back."
+   "why": "Hybrid training is a common pick for people who want to lift and run."
   },
   {
-   "n": "Leg Day",
-   "focus": "Quads · Hamstrings · Calves",
-   "diff": "Intermediate",
-   "min": 65,
-   "equip": "Barbell, machines",
-   "desc": "Squat-based lower-body session with a hinge, a machine quad builder and calf work.",
+   "n": "Zone 2 Cardio",
+   "focus": "Aerobic base · Recovery",
+   "diff": "Beginner",
+   "min": 40,
+   "equip": "Treadmill, bike or outdoors",
+   "desc": "Steady, conversational-pace cardio. You should be able to talk in full sentences.",
    "b": [
     [
-     "Back squat",
-     "4×6"
+     "Treadmill run",
+     "30 min"
     ],
     [
-     "Romanian deadlift",
-     "3×8"
+     "Hip mobility flow",
+     "5 min"
     ],
     [
-     "Leg press",
+     "Hamstring stretch",
+     "3 min"
+    ],
+    [
+     "Foam roll quads",
+     "3 min"
+    ],
+    [
+     "Calf stretch",
+     "3 min"
+    ]
+   ],
+   "mentions": 0,
+   "why": "Builds an aerobic base without hurting recovery from lifting."
+  },
+  {
+   "n": "Full-Body Dumbbells",
+   "focus": "Full body",
+   "diff": "Beginner",
+   "min": 40,
+   "equip": "Dumbbells",
+   "desc": "One pair of dumbbells, every major muscle group, three sets each.",
+   "b": [
+    [
+     "KB goblet squat",
      "3×12"
+    ],
+    [
+     "Dumbbell bench press",
+     "3×10"
+    ],
+    [
+     "Dumbbell row",
+     "3×10"
+    ],
+    [
+     "Dumbbell shoulder press",
+     "3×10"
     ],
     [
      "Walking lunge",
      "3×12"
     ],
     [
-     "Seated leg curl",
-     "3×12"
-    ],
-    [
-     "Calf raise (machine)",
-     "4×15"
+     "Plank",
+     "3×45"
     ]
    ],
    "mentions": 0,
-   "why": "Big compound lifts that train the most muscle in one session."
-  },
-  {
-   "n": "Posterior Chain",
-   "focus": "Glutes · Hamstrings · Lower back",
-   "diff": "Intermediate",
-   "min": 55,
-   "equip": "Barbell, dumbbells, kettlebell",
-   "desc": "Hip-hinge focused session for glutes and hamstrings, finished with swings.",
-   "b": [
-    [
-     "Romanian deadlift",
-     "4×8"
-    ],
-    [
-     "Glute bridge",
-     "4×12"
-    ],
-    [
-     "Bulgarian split squat",
-     "3×10"
-    ],
-    [
-     "Seated leg curl",
-     "3×12"
-    ],
-    [
-     "Kettlebell swing",
-     "3×15"
-    ]
-   ],
-   "mentions": 0,
-   "why": "Strong hips help every other lift and protect the lower back."
-  },
-  {
-   "n": "Push Day",
-   "focus": "Chest · Shoulders · Triceps",
-   "diff": "Intermediate",
-   "min": 60,
-   "equip": "Barbell, dumbbells, cable",
-   "desc": "The push session of a push/pull/legs split. Heavy pressing first, then higher-rep shoulder and triceps volume.",
-   "b": [
-    [
-     "Bench press",
-     "4×8"
-    ],
-    [
-     "Overhead press",
-     "3×10"
-    ],
-    [
-     "Incline dumbbell press",
-     "3×10"
-    ],
-    [
-     "Dumbbell lateral raise",
-     "3×15"
-    ],
-    [
-     "Triceps pushdown",
-     "3×12"
-    ],
-    [
-     "Dip",
-     "3×10"
-    ]
-   ],
-   "mentions": 0,
-   "why": "Push/pull/legs is one of the most common ways to organise a lifting week."
+   "why": "Works at home or in a busy gym."
   }
  ]
 }
