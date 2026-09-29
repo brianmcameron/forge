@@ -1,6 +1,6 @@
 {
- "generated": "2026-09-28T09:33:38.371256+00:00",
- "headlines_seen": 169,
+ "generated": "2026-09-29T09:32:34.599100+00:00",
+ "headlines_seen": 173,
  "items": [
   {
    "n": "Hyrox-Style Session",
@@ -40,6 +40,46 @@
    "src": {
     "t": "HYROX season kicks-off with fierce rivalries and blazing fast wins - Red Bull",
     "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9tdFZzQ0xBY3Frbk9JZHhxVldVQkFxa3Z0WjFFZGUzNksxemowYWdXa0tmUlZoYXNaU2NpdWRNV2hNYXVybFFiVFY5c0ZFX2VNLXdKMnZKN0pYLVZRSHlneDMyTzJYOGg4ckQ2ck9n?oc=5"
+   }
+  },
+  {
+   "n": "Upper Body",
+   "focus": "Chest · Back · Shoulders · Arms",
+   "diff": "Intermediate",
+   "min": 60,
+   "equip": "Barbell, dumbbells, cable",
+   "desc": "The upper day of an upper/lower split with a press and a pull in each plane.",
+   "b": [
+    [
+     "Incline bench press",
+     "4×8"
+    ],
+    [
+     "Barbell row",
+     "4×8"
+    ],
+    [
+     "Dumbbell shoulder press",
+     "3×10"
+    ],
+    [
+     "Lat pulldown",
+     "3×10"
+    ],
+    [
+     "Dumbbell curl",
+     "3×12"
+    ],
+    [
+     "Triceps pushdown",
+     "3×12"
+    ]
+   ],
+   "mentions": 2,
+   "why": "Appeared in 2 news stories this past week.",
+   "src": {
+    "t": "2x Mr. Olympia Derek Lunsford Reveals the High-Intensity Chest Workout Behind His Massive Upper Body - Yahoo Sports",
+    "u": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPeGNwOGhURUJNWWRTc0hEQUdpTkFsOG1vQ1VTa2J4cFZXOVdHNGtHd293bFdmcFN5Xy1BakhsZkxXWFlMU0huWW9xNElfZVBPVE4tVkxYU3FLdVBnSzZyU1U2d3VqdUQ3V25YWUZ3aG1wWm1LUXlHNk1Uek5hM194X3BTQQ?oc=5"
    }
   },
   {
@@ -83,46 +123,6 @@
    }
   },
   {
-   "n": "Upper Body",
-   "focus": "Chest · Back · Shoulders · Arms",
-   "diff": "Intermediate",
-   "min": 60,
-   "equip": "Barbell, dumbbells, cable",
-   "desc": "The upper day of an upper/lower split with a press and a pull in each plane.",
-   "b": [
-    [
-     "Incline bench press",
-     "4×8"
-    ],
-    [
-     "Barbell row",
-     "4×8"
-    ],
-    [
-     "Dumbbell shoulder press",
-     "3×10"
-    ],
-    [
-     "Lat pulldown",
-     "3×10"
-    ],
-    [
-     "Dumbbell curl",
-     "3×12"
-    ],
-    [
-     "Triceps pushdown",
-     "3×12"
-    ]
-   ],
-   "mentions": 2,
-   "why": "Appeared in 2 news stories this past week.",
-   "src": {
-    "t": "2x Mr. Olympia Derek Lunsford Reveals the High-Intensity Chest Workout Behind His Massive Upper Body - Men's Journal",
-    "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPNk1lOVF0cVJUbVBsbnpTUDR3WGFPczh1RXBUcmNyUlNTVW9EUmpJdGstWWs1NzVmUmF2bklGektpa01PcFYxVHdUaUtrVzBWS0hWSGRhQUhpTHA2UWVBVXB0SFZNbmFNRjZyZm5kZ2NmQ0c5eEdHc1NNdUVDUzlGeg?oc=5"
-   }
-  },
-  {
    "n": "Core & Abs Finisher",
    "focus": "Abs · Obliques · Lower back",
    "diff": "Beginner",
@@ -158,36 +158,36 @@
    "mentions": 2,
    "why": "Appeared in 2 news stories this past week.",
    "src": {
-    "t": "Inside the AI-Powered Mortal Kombat II Workout That Got This 30-Something a Shredded Six-Pack in 12 Weeks - Men's Journal",
-    "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRzRXMnBYeFdRYXdEdVJCRmpPQThZMmNubUhPcE5zcUtUVGlHc2ZCSVA3U0VUOWYzZGZORWlRbUQ1cUVHWUZxaTJRSElEN3gzamRRN20yV2xpWTBuTjdRWUFuM0Nfbi13NlZjY1Fna21RaGdFbmlDbEJSMTJyNEg4amdRdlQ5dVRKSnZBbg?oc=5"
+    "t": "How Often Should You Train Your Abs Specifically for a Six Pack? - BOXROX",
+    "u": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQYmFYSmZVbktqT1g1eWlHT0dRRXpOTjNmLTJrX3NGTXM2ZnpEQTJxM2ZGVXBWaUxsQk9MY0VIbjlLOUxGU2lTcm85UTFZN05JcVV5ZTI4cTNmc21HeUhJN3VrelM5QzJ3NGF6VWdHbzBmRnhfdDZXTEhoeGZOaURtYWJqZnFRRFNRLXIyZ3U5NDI?oc=5"
    }
   },
   {
-   "n": "Bodyweight Circuit",
-   "focus": "Calisthenics · Conditioning",
-   "diff": "Intermediate",
+   "n": "Full-Body Dumbbells",
+   "focus": "Full body",
+   "diff": "Beginner",
    "min": 40,
-   "equip": "Pull-up bar, floor space",
-   "desc": "No-gym session you can do anywhere: push, pull, single-leg work and core.",
+   "equip": "Dumbbells",
+   "desc": "One pair of dumbbells, every major muscle group, three sets each.",
    "b": [
     [
-     "Push-up",
-     "4×15"
+     "KB goblet squat",
+     "3×12"
     ],
     [
-     "Pull-up",
-     "4×8"
-    ],
-    [
-     "Bulgarian split squat",
+     "Dumbbell bench press",
      "3×10"
     ],
     [
-     "Dip",
+     "Dumbbell row",
      "3×10"
     ],
     [
-     "Hanging leg raise",
+     "Dumbbell shoulder press",
+     "3×10"
+    ],
+    [
+     "Walking lunge",
      "3×12"
     ],
     [
@@ -198,8 +198,44 @@
    "mentions": 1,
    "why": "Appeared in 1 news story this past week.",
    "src": {
-    "t": "How Richard Osman, 55, Builds Strength Without the Gym – The Home Workout That Made Exercise Click - Men's Health",
-    "u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONEgyU0hRNXZWdVdmYnNEeVplM18zdDVxM3ZQOWhKa2c1VjhTWlBCUGZLUVNMMUp6TTROWXZOS1E0ejQzY25ITWlQOTdmaElZbW9WdkxfOVJLWGk4NXVwVnV6OTJ4NEQ1enBhaGhTeDFlT0c3SnhTTl9PbXc0STBxQWNOQ2s?oc=5"
+    "t": "Why the Full-Body Workout Reigns Supreme - GQ",
+    "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1fRnBScEFkUUREZ1JCR1UzQlJ3WFRqUGI1QmlIQlJUY2RuNDBjU25leTFkV2dBeUZsT3hIZFEzN3FudDhkaGpNUk1rLTdxT3VBVF9mc0lSanFENXpxQm9DTk5yVFZSY2JXTTVmUXdHLVRwYWNWREE?oc=5"
+   }
+  },
+  {
+   "n": "HIIT Intervals",
+   "focus": "Conditioning · Fat burn",
+   "diff": "Advanced",
+   "min": 25,
+   "equip": "Bike or open space",
+   "desc": "Short, hard efforts with rest between. Keep the quality high and stop when form slips.",
+   "b": [
+    [
+     "Assault bike",
+     "10 min"
+    ],
+    [
+     "Burpee",
+     "4×12"
+    ],
+    [
+     "Box jump",
+     "4×8"
+    ],
+    [
+     "Mountain climber",
+     "4×30"
+    ],
+    [
+     "Jump rope",
+     "4×60"
+    ]
+   ],
+   "mentions": 1,
+   "why": "Appeared in 1 news story this past week.",
+   "src": {
+    "t": "2x Mr. Olympia Derek Lunsford Reveals the High-Intensity Chest Workout Behind His Massive Upper Body - Yahoo Sports",
+    "u": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPeGNwOGhURUJNWWRTc0hEQUdpTkFsOG1vQ1VTa2J4cFZXOVdHNGtHd293bFdmcFN5Xy1BakhsZkxXWFlMU0huWW9xNElfZVBPVE4tVkxYU3FLdVBnSzZyU1U2d3VqdUQ3V25YWUZ3aG1wWm1LUXlHNk1Uek5hM194X3BTQQ?oc=5"
    }
   },
   {
@@ -243,39 +279,43 @@
    }
   },
   {
-   "n": "HIIT Intervals",
-   "focus": "Conditioning · Fat burn",
-   "diff": "Advanced",
-   "min": 25,
-   "equip": "Bike or open space",
-   "desc": "Short, hard efforts with rest between. Keep the quality high and stop when form slips.",
+   "n": "Bodyweight Circuit",
+   "focus": "Calisthenics · Conditioning",
+   "diff": "Intermediate",
+   "min": 40,
+   "equip": "Pull-up bar, floor space",
+   "desc": "No-gym session you can do anywhere: push, pull, single-leg work and core.",
    "b": [
     [
-     "Assault bike",
-     "10 min"
+     "Push-up",
+     "4×15"
     ],
     [
-     "Burpee",
-     "4×12"
-    ],
-    [
-     "Box jump",
+     "Pull-up",
      "4×8"
     ],
     [
-     "Mountain climber",
-     "4×30"
+     "Bulgarian split squat",
+     "3×10"
     ],
     [
-     "Jump rope",
-     "4×60"
+     "Dip",
+     "3×10"
+    ],
+    [
+     "Hanging leg raise",
+     "3×12"
+    ],
+    [
+     "Plank",
+     "3×45"
     ]
    ],
    "mentions": 1,
    "why": "Appeared in 1 news story this past week.",
    "src": {
-    "t": "2x Mr. Olympia Derek Lunsford Reveals the High-Intensity Chest Workout Behind His Massive Upper Body - Men's Journal",
-    "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPNk1lOVF0cVJUbVBsbnpTUDR3WGFPczh1RXBUcmNyUlNTVW9EUmpJdGstWWs1NzVmUmF2bklGektpa01PcFYxVHdUaUtrVzBWS0hWSGRhQUhpTHA2UWVBVXB0SFZNbmFNRjZyZm5kZ2NmQ0c5eEdHc1NNdUVDUzlGeg?oc=5"
+    "t": "How Richard Osman, 55, Builds Strength Without the Gym – The Home Workout That Made Exercise Click - Men's Health",
+    "u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONEgyU0hRNXZWdVdmYnNEeVplM18zdDVxM3ZQOWhKa2c1VjhTWlBCUGZLUVNMMUp6TTROWXZOS1E0ejQzY25ITWlQOTdmaElZbW9WdkxfOVJLWGk4NXVwVnV6OTJ4NEQ1enBhaGhTeDFlT0c3SnhTTl9PbXc0STBxQWNOQ2s?oc=5"
    }
   },
   {
@@ -311,72 +351,44 @@
      "3×12"
     ]
    ],
-   "mentions": 0,
-   "why": "Wide, capped shoulders are a common goal."
+   "mentions": 1,
+   "why": "Appeared in 1 news story this past week.",
+   "src": {
+    "t": "3 Best Beginner Exercises to Build More Attractive Shoulders - BOXROX",
+    "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWW5HVDdyZ1FES3FEMENGUXM4Tmo5S2JvWXZ0ckdyVVFURjMzb3c5eDFQeEM2a0Z2cXY3TnphUmhta01VZi03SE5pTXo0STc2Q1paTlNoNUdTcDhlMU5PblNwV1VXci14N0p6XzEzMHVja3pJUkVGN2pEMHZXVWduRWk0elR4N0lQYkxWLQ?oc=5"
+   }
   },
   {
-   "n": "Zone 2 Cardio",
-   "focus": "Aerobic base · Recovery",
-   "diff": "Beginner",
-   "min": 40,
-   "equip": "Treadmill, bike or outdoors",
-   "desc": "Steady, conversational-pace cardio. You should be able to talk in full sentences.",
+   "n": "Posterior Chain",
+   "focus": "Glutes · Hamstrings · Lower back",
+   "diff": "Intermediate",
+   "min": 55,
+   "equip": "Barbell, dumbbells, kettlebell",
+   "desc": "Hip-hinge focused session for glutes and hamstrings, finished with swings.",
    "b": [
     [
-     "Treadmill run",
-     "30 min"
+     "Romanian deadlift",
+     "4×8"
     ],
     [
-     "Hip mobility flow",
-     "5 min"
+     "Glute bridge",
+     "4×12"
     ],
     [
-     "Hamstring stretch",
-     "3 min"
+     "Bulgarian split squat",
+     "3×10"
     ],
     [
-     "Foam roll quads",
-     "3 min"
+     "Seated leg curl",
+     "3×12"
     ],
     [
-     "Calf stretch",
-     "3 min"
+     "Kettlebell swing",
+     "3×15"
     ]
    ],
    "mentions": 0,
-   "why": "Builds an aerobic base without hurting recovery from lifting."
-  },
-  {
-   "n": "5×5 Strength",
-   "focus": "Full-body strength",
-   "diff": "Beginner",
-   "min": 50,
-   "equip": "Barbell, rack, bench",
-   "desc": "Five sets of five on the big lifts. Add a little weight each session. Simple, heavy and repeatable.",
-   "b": [
-    [
-     "Back squat",
-     "5×5"
-    ],
-    [
-     "Bench press",
-     "5×5"
-    ],
-    [
-     "Barbell row",
-     "5×5"
-    ],
-    [
-     "Overhead press",
-     "5×5"
-    ],
-    [
-     "Deadlift",
-     "1×5"
-    ]
-   ],
-   "mentions": 0,
-   "why": "A classic beginner strength template built on progressive overload."
+   "why": "Strong hips help every other lift and protect the lower back."
   }
  ]
 }

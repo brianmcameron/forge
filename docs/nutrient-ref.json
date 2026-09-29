@@ -1,0 +1,21 @@
+{
+  "_note": "General adult reference values (rda = daily target, ul = upper limit) used by Forge's ingredient-level Analyze card. Not personalized by age/sex/pregnancy, and not medical advice. Edit this file directly in the repo to update the numbers — Forge re-fetches it about once a day, no app rebuild needed. Units: fiber/sugar/satfat in g, sodium/chol/calcium/iron/potassium/magnesium/zinc in mg, vitA/vitD/vitK/b12/folate in mcg, vitC/vitE/b6 in mg.",
+  "fiber": {"rda": 28, "ul": null},
+  "sugar": {"rda": null, "ul": 50},
+  "sodium": {"rda": null, "ul": 2300},
+  "chol": {"rda": null, "ul": 300},
+  "satfat": {"rda": null, "ul": 20},
+  "calcium": {"rda": 1000, "ul": 2500},
+  "iron": {"rda": 18, "ul": 45},
+  "potassium": {"rda": 4700, "ul": null},
+  "vitA": {"rda": 900, "ul": 3000},
+  "vitC": {"rda": 90, "ul": 2000},
+  "vitD": {"rda": 20, "ul": 100},
+  "vitE": {"rda": 15, "ul": 1000},
+  "vitK": {"rda": 120, "ul": null},
+  "b6": {"rda": 1.7, "ul": 100},
+  "b12": {"rda": 2.4, "ul": null},
+  "folate": {"rda": 400, "ul": 1000},
+  "magnesium": {"rda": 420, "ul": null},
+  "zinc": {"rda": 11, "ul": 40}
+}
