@@ -39,11 +39,13 @@ jobs:
         run: unzip -q -o forge-project.zip -d project
       - name: Build trends.json
         run: python3 project/scripts/build_trends.py docs/trends.json
+      - name: Seed nutrient-ref.json (first run only — never overwrites a manual edit already in the repo)
+        run: mkdir -p docs && [ -f docs/nutrient-ref.json ] || cp project/scripts/nutrient-ref.json docs/nutrient-ref.json
       - name: Save it to the repo
         run: |
           git config user.name "forge-bot"
           git config user.email "forge-bot@users.noreply.github.com"
-          git add docs/trends.json
+          git add docs/trends.json docs/nutrient-ref.json
           git diff --cached --quiet || (git commit -m "Update trending workouts" && git push)
 
   apk:
@@ -70,13 +72,15 @@ jobs:
           npx expo install react-native-webview expo-sqlite expo-asset expo-splash-screen expo-status-bar expo-build-properties expo-notifications react-native-safe-area-context
           npm install react-native-health-connect
           npx expo install @react-native-google-signin/google-signin expo-camera react-native-android-widget @react-native-async-storage/async-storage
+          npm install @react-native-ml-kit/text-recognition
 
       - name: Add Forge
         run: |
           cd forge-app
           cp -r ../project/app/. .
-          # TRENDS_URL is always specific to this repo, so keep that line current.
+          # TRENDS_URL and NUTRIENT_REF_URL are always specific to this repo, so keep those lines current.
           sed -i "s#https://raw.githubusercontent.com/OWNER/REPO/main/docs/trends.json#https://raw.githubusercontent.com/${GITHUB_REPOSITORY}/main/docs/trends.json#" src/config.js
+          sed -i "s#https://raw.githubusercontent.com/OWNER/REPO/main/docs/nutrient-ref.json#https://raw.githubusercontent.com/${GITHUB_REPOSITORY}/main/docs/nutrient-ref.json#" src/config.js
           # Only touch the Google client ID if one was explicitly typed into this run's input —
           # otherwise keep whatever is already committed in src/config.js as-is.
           if [ -n "${{ inputs.google_web_client_id }}" ]; then
@@ -96,7 +100,7 @@ jobs:
       - name: Verify all config-plugin packages are actually installed
         run: |
           cd forge-app
-          for pkg in expo-camera react-native-android-widget @react-native-async-storage/async-storage @react-native-google-signin/google-signin react-native-health-connect expo-notifications; do
+          for pkg in expo-camera react-native-android-widget @react-native-async-storage/async-storage @react-native-google-signin/google-signin react-native-health-connect expo-notifications @react-native-ml-kit/text-recognition; do
             if [ ! -d "node_modules/$pkg" ]; then
               echo "::warning::$pkg was missing from node_modules — installing it directly now."
               npm install "$pkg" --no-save=false
