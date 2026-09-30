@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-29T09:32:34.599100+00:00",
+ "generated": "2026-09-30T09:32:29.722777+00:00",
  "headlines_seen": 173,
  "items": [
   {
@@ -35,11 +35,11 @@
      "3×20"
     ]
    ],
-   "mentions": 4,
-   "why": "Appeared in 4 news stories this past week.",
+   "mentions": 3,
+   "why": "Appeared in 3 news stories this past week.",
    "src": {
-    "t": "HYROX season kicks-off with fierce rivalries and blazing fast wins - Red Bull",
-    "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9tdFZzQ0xBY3Frbk9JZHhxVldVQkFxa3Z0WjFFZGUzNksxemowYWdXa0tmUlZoYXNaU2NpdWRNV2hNYXVybFFiVFY5c0ZFX2VNLXdKMnZKN0pYLVZRSHlneDMyTzJYOGg4ckQ2ck9n?oc=5"
+    "t": "7 Best HYROX Shoes in 2026 - RunRepeat",
+    "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1nU21FSkVMTTBVX3Zrdlg3cmN2ZFNJbDgwdllCV1AyNGowOUdEc1Z2ai16M05yOEZrY0ZyZ0thU0RaSWZlZWVLUkhscURndk8zNW9MV01UVGRKUnJsbDNhRk80Zw?oc=5"
    }
   },
   {
@@ -75,10 +75,10 @@
      "3×12"
     ]
    ],
-   "mentions": 2,
-   "why": "Appeared in 2 news stories this past week.",
+   "mentions": 3,
+   "why": "Appeared in 3 news stories this past week.",
    "src": {
-    "t": "2x Mr. Olympia Derek Lunsford Reveals the High-Intensity Chest Workout Behind His Massive Upper Body - Yahoo Sports",
+    "t": "2x Mr. Olympia Derek Lunsford Reveals the High-Intensity Chest Workout Behind His Massive Upper Body - sports.yahoo.com",
     "u": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPeGNwOGhURUJNWWRTc0hEQUdpTkFsOG1vQ1VTa2J4cFZXOVdHNGtHd293bFdmcFN5Xy1BakhsZkxXWFlMU0huWW9xNElfZVBPVE4tVkxYU3FLdVBnSzZyU1U2d3VqdUQ3V25YWUZ3aG1wWm1LUXlHNk1Uek5hM194X3BTQQ?oc=5"
    }
   },
@@ -123,71 +123,31 @@
    }
   },
   {
-   "n": "Core & Abs Finisher",
-   "focus": "Abs · Obliques · Lower back",
-   "diff": "Beginner",
-   "min": 20,
-   "equip": "Ab wheel, cable or none",
-   "desc": "A short block to add after any session. Anti-extension, rotation and hip-flexor work.",
+   "n": "Bodyweight Circuit",
+   "focus": "Calisthenics · Conditioning",
+   "diff": "Intermediate",
+   "min": 40,
+   "equip": "Pull-up bar, floor space",
+   "desc": "No-gym session you can do anywhere: push, pull, single-leg work and core.",
    "b": [
+    [
+     "Push-up",
+     "4×15"
+    ],
+    [
+     "Pull-up",
+     "4×8"
+    ],
+    [
+     "Bulgarian split squat",
+     "3×10"
+    ],
+    [
+     "Dip",
+     "3×10"
+    ],
     [
      "Hanging leg raise",
-     "3×12"
-    ],
-    [
-     "Ab wheel rollout",
-     "3×10"
-    ],
-    [
-     "Russian twist",
-     "3×20"
-    ],
-    [
-     "Woodchopper",
-     "3×12"
-    ],
-    [
-     "Dead bug",
-     "3×12"
-    ],
-    [
-     "Plank",
-     "3×45"
-    ]
-   ],
-   "mentions": 2,
-   "why": "Appeared in 2 news stories this past week.",
-   "src": {
-    "t": "How Often Should You Train Your Abs Specifically for a Six Pack? - BOXROX",
-    "u": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQYmFYSmZVbktqT1g1eWlHT0dRRXpOTjNmLTJrX3NGTXM2ZnpEQTJxM2ZGVXBWaUxsQk9MY0VIbjlLOUxGU2lTcm85UTFZN05JcVV5ZTI4cTNmc21HeUhJN3VrelM5QzJ3NGF6VWdHbzBmRnhfdDZXTEhoeGZOaURtYWJqZnFRRFNRLXIyZ3U5NDI?oc=5"
-   }
-  },
-  {
-   "n": "Full-Body Dumbbells",
-   "focus": "Full body",
-   "diff": "Beginner",
-   "min": 40,
-   "equip": "Dumbbells",
-   "desc": "One pair of dumbbells, every major muscle group, three sets each.",
-   "b": [
-    [
-     "KB goblet squat",
-     "3×12"
-    ],
-    [
-     "Dumbbell bench press",
-     "3×10"
-    ],
-    [
-     "Dumbbell row",
-     "3×10"
-    ],
-    [
-     "Dumbbell shoulder press",
-     "3×10"
-    ],
-    [
-     "Walking lunge",
      "3×12"
     ],
     [
@@ -198,8 +158,8 @@
    "mentions": 1,
    "why": "Appeared in 1 news story this past week.",
    "src": {
-    "t": "Why the Full-Body Workout Reigns Supreme - GQ",
-    "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1fRnBScEFkUUREZ1JCR1UzQlJ3WFRqUGI1QmlIQlJUY2RuNDBjU25leTFkV2dBeUZsT3hIZFEzN3FudDhkaGpNUk1rLTdxT3VBVF9mc0lSanFENXpxQm9DTk5yVFZSY2JXTTVmUXdHLVRwYWNWREE?oc=5"
+    "t": "How Richard Osman, 55, Builds Strength Without the Gym – The Home Workout That Made Exercise Click - Men's Health",
+    "u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONEgyU0hRNXZWdVdmYnNEeVplM18zdDVxM3ZQOWhKa2c1VjhTWlBCUGZLUVNMMUp6TTROWXZOS1E0ejQzY25ITWlQOTdmaElZbW9WdkxfOVJLWGk4NXVwVnV6OTJ4NEQ1enBhaGhTeDFlT0c3SnhTTl9PbXc0STBxQWNOQ2s?oc=5"
    }
   },
   {
@@ -234,7 +194,7 @@
    "mentions": 1,
    "why": "Appeared in 1 news story this past week.",
    "src": {
-    "t": "2x Mr. Olympia Derek Lunsford Reveals the High-Intensity Chest Workout Behind His Massive Upper Body - Yahoo Sports",
+    "t": "2x Mr. Olympia Derek Lunsford Reveals the High-Intensity Chest Workout Behind His Massive Upper Body - sports.yahoo.com",
     "u": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPeGNwOGhURUJNWWRTc0hEQUdpTkFsOG1vQ1VTa2J4cFZXOVdHNGtHd293bFdmcFN5Xy1BakhsZkxXWFlMU0huWW9xNElfZVBPVE4tVkxYU3FLdVBnSzZyU1U2d3VqdUQ3V25YWUZ3aG1wWm1LUXlHNk1Uek5hM194X3BTQQ?oc=5"
    }
   },
@@ -279,31 +239,31 @@
    }
   },
   {
-   "n": "Bodyweight Circuit",
-   "focus": "Calisthenics · Conditioning",
-   "diff": "Intermediate",
-   "min": 40,
-   "equip": "Pull-up bar, floor space",
-   "desc": "No-gym session you can do anywhere: push, pull, single-leg work and core.",
+   "n": "Core & Abs Finisher",
+   "focus": "Abs · Obliques · Lower back",
+   "diff": "Beginner",
+   "min": 20,
+   "equip": "Ab wheel, cable or none",
+   "desc": "A short block to add after any session. Anti-extension, rotation and hip-flexor work.",
    "b": [
     [
-     "Push-up",
-     "4×15"
-    ],
-    [
-     "Pull-up",
-     "4×8"
-    ],
-    [
-     "Bulgarian split squat",
-     "3×10"
-    ],
-    [
-     "Dip",
-     "3×10"
-    ],
-    [
      "Hanging leg raise",
+     "3×12"
+    ],
+    [
+     "Ab wheel rollout",
+     "3×10"
+    ],
+    [
+     "Russian twist",
+     "3×20"
+    ],
+    [
+     "Woodchopper",
+     "3×12"
+    ],
+    [
+     "Dead bug",
      "3×12"
     ],
     [
@@ -314,49 +274,85 @@
    "mentions": 1,
    "why": "Appeared in 1 news story this past week.",
    "src": {
-    "t": "How Richard Osman, 55, Builds Strength Without the Gym – The Home Workout That Made Exercise Click - Men's Health",
-    "u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONEgyU0hRNXZWdVdmYnNEeVplM18zdDVxM3ZQOWhKa2c1VjhTWlBCUGZLUVNMMUp6TTROWXZOS1E0ejQzY25ITWlQOTdmaElZbW9WdkxfOVJLWGk4NXVwVnV6OTJ4NEQ1enBhaGhTeDFlT0c3SnhTTl9PbXc0STBxQWNOQ2s?oc=5"
+    "t": "How Often Should You Train Your Abs Specifically for a Six Pack? - boxrox.com",
+    "u": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQYmFYSmZVbktqT1g1eWlHT0dRRXpOTjNmLTJrX3NGTXM2ZnpEQTJxM2ZGVXBWaUxsQk9MY0VIbjlLOUxGU2lTcm85UTFZN05JcVV5ZTI4cTNmc21HeUhJN3VrelM5QzJ3NGF6VWdHbzBmRnhfdDZXTEhoeGZOaURtYWJqZnFRRFNRLXIyZ3U5NDI?oc=5"
    }
   },
   {
-   "n": "Shoulders & Traps",
-   "focus": "Delts · Traps · Rear delts",
-   "diff": "Intermediate",
-   "min": 50,
-   "equip": "Barbell, dumbbells",
-   "desc": "Pressing for strength, raises for width and rear-delt work for posture.",
+   "n": "Full-Body Dumbbells",
+   "focus": "Full body",
+   "diff": "Beginner",
+   "min": 40,
+   "equip": "Dumbbells",
+   "desc": "One pair of dumbbells, every major muscle group, three sets each.",
    "b": [
     [
-     "Overhead press",
+     "KB goblet squat",
+     "3×12"
+    ],
+    [
+     "Dumbbell bench press",
+     "3×10"
+    ],
+    [
+     "Dumbbell row",
+     "3×10"
+    ],
+    [
+     "Dumbbell shoulder press",
+     "3×10"
+    ],
+    [
+     "Walking lunge",
+     "3×12"
+    ],
+    [
+     "Plank",
+     "3×45"
+    ]
+   ],
+   "mentions": 1,
+   "why": "Appeared in 1 news story this past week.",
+   "src": {
+    "t": "Why the Full-Body Workout Reigns Supreme - gq.com",
+    "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1fRnBScEFkUUREZ1JCR1UzQlJ3WFRqUGI1QmlIQlJUY2RuNDBjU25leTFkV2dBeUZsT3hIZFEzN3FudDhkaGpNUk1rLTdxT3VBVF9mc0lSanFENXpxQm9DTk5yVFZSY2JXTTVmUXdHLVRwYWNWREE?oc=5"
+   }
+  },
+  {
+   "n": "Pull Day",
+   "focus": "Back · Biceps · Rear delts",
+   "diff": "Intermediate",
+   "min": 60,
+   "equip": "Barbell, dumbbells, pull-up bar",
+   "desc": "The pulling half of push/pull/legs. Start with a heavy hinge, then vertical and horizontal pulls, then arms.",
+   "b": [
+    [
+     "Deadlift",
+     "3×5"
+    ],
+    [
+     "Pull-up",
      "4×8"
     ],
     [
-     "Dumbbell lateral raise",
-     "4×15"
+     "Barbell row",
+     "4×8"
+    ],
+    [
+     "Lat pulldown",
+     "3×10"
     ],
     [
      "Rear delt fly",
      "3×15"
     ],
     [
-     "Arnold press",
-     "3×10"
-    ],
-    [
-     "Dumbbell front raise",
-     "3×12"
-    ],
-    [
-     "Dumbbell shrug",
+     "Hammer curl",
      "3×12"
     ]
    ],
-   "mentions": 1,
-   "why": "Appeared in 1 news story this past week.",
-   "src": {
-    "t": "3 Best Beginner Exercises to Build More Attractive Shoulders - BOXROX",
-    "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWW5HVDdyZ1FES3FEMENGUXM4Tmo5S2JvWXZ0ckdyVVFURjMzb3c5eDFQeEM2a0Z2cXY3TnphUmhta01VZi03SE5pTXo0STc2Q1paTlNoNUdTcDhlMU5PblNwV1VXci14N0p6XzEzMHVja3pJUkVGN2pEMHZXVWduRWk0elR4N0lQYkxWLQ?oc=5"
-   }
+   "mentions": 0,
+   "why": "Balances all the pressing in your week and builds a stronger back."
   },
   {
    "n": "Posterior Chain",
