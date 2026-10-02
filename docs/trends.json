@@ -1,6 +1,6 @@
 {
- "generated": "2026-10-01T09:33:19.218254+00:00",
- "headlines_seen": 165,
+ "generated": "2026-10-02T09:33:08.524661+00:00",
+ "headlines_seen": 161,
  "items": [
   {
    "n": "Full-Body Dumbbells",
@@ -38,168 +38,8 @@
    "mentions": 2,
    "why": "Appeared in 2 news stories this past week.",
    "src": {
-    "t": "Why the Full-Body Workout Reigns Supreme - GQ",
-    "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1fRnBScEFkUUREZ1JCR1UzQlJ3WFRqUGI1QmlIQlJUY2RuNDBjU25leTFkV2dBeUZsT3hIZFEzN3FudDhkaGpNUk1rLTdxT3VBVF9mc0lSanFENXpxQm9DTk5yVFZSY2JXTTVmUXdHLVRwYWNWREE?oc=5"
-   }
-  },
-  {
-   "n": "Arm Day",
-   "focus": "Biceps · Triceps · Forearms",
-   "diff": "Beginner",
-   "min": 45,
-   "equip": "Barbell, dumbbells, cable",
-   "desc": "Direct arm work with a heavy compound opener and supersets if you want to save time.",
-   "b": [
-    [
-     "Close-grip bench press",
-     "4×8"
-    ],
-    [
-     "Dumbbell curl",
-     "4×10"
-    ],
-    [
-     "Triceps pushdown",
-     "3×12"
-    ],
-    [
-     "Hammer curl",
-     "3×12"
-    ],
-    [
-     "Rope pushdown",
-     "3×12"
-    ],
-    [
-     "Reverse curl",
-     "3×12"
-    ]
-   ],
-   "mentions": 2,
-   "why": "Appeared in 2 news stories this past week.",
-   "src": {
-    "t": "Take the 'Bicep Curl Man Test' – Pump up Your Arms with This Efficient Muscle-building Challenge - menshealth.com",
-    "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTE01OGx2V0NxV0xyWDAzTkJYVFNaRzNmcVZPU05oXzdrc2FveWZlaG5HTUsxazRPdENGLW5HUmVaWXdnMVg4LVpoem1DLVZBTWtfUE85Zy1lc25jTWFWcjJDUW1uYTBCdjgyUjlQbnd0RUJybHRPbTBMMg?oc=5"
-   }
-  },
-  {
-   "n": "Hyrox-Style Session",
-   "focus": "Hybrid fitness · Racing",
-   "diff": "Advanced",
-   "min": 60,
-   "equip": "Sled, rower, SkiErg, wall ball",
-   "desc": "Alternates running with functional stations like sleds, rowing and wall balls, like a fitness race.",
-   "b": [
-    [
-     "Run",
-     "800 m"
-    ],
-    [
-     "SkiErg",
-     "3×500 m"
-    ],
-    [
-     "Sled push",
-     "3×25 m"
-    ],
-    [
-     "Wall balls",
-     "3×20"
-    ],
-    [
-     "Row (erg)",
-     "3×500 m"
-    ],
-    [
-     "Sandbag lunges",
-     "3×20"
-    ]
-   ],
-   "mentions": 2,
-   "why": "Appeared in 2 news stories this past week.",
-   "src": {
-    "t": "From Hyrox to LISS: 10 popular fitness training styles explained - News.com.au",
-    "u": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPcmdRR05McVBvdjZ6a0xtejFSeW9PWjdoQ0NudmxxVzJ5OEREVk9vWU5mc1RpaFlNWXU3Qm5DNDZ1UUdsalVqSTczalFxaEsxRTBIYWhodDJUNkpaU093ZExFZExpOWZ0aW9NdVQtSXJQQlVRQW1SVW1KN1pSRURVdUwzSnBPNmJNalVnd3dqWkVaSF9tU2NrLTB0WGFNS2lEMVVXUWg0eHcyRzFBd080WTNTa2ZrUDVuWVdPYmY1VEUyNnREUEJvVlBHQjBpMWxmMl8ta3dSTdIB3AFBVV95cUxNMm9uRjlxRDdTalA3QU9wVEpkbjljZzlMQ3FmR0pkZjhsOUx0LXd0LUR1b1dxdWxYcVdiTU5uMzVzTmxYc2djbmUyQU45VUNQUkRJQXdOVEh3UFNGckFYeEZsaTk2T0ZmUWRxT0FuS1VhTDJZTmc5aGJaVHpDN09adGZpb0FYRk5UMHA0XzRPbGd0UWpGYmZBQ2loWWNJUWJTZUxyQ0ktTFQ1bWxEUnMxajZSdEg5VGZ1VmNGdFVMV3ZGN0ZGd1A5TE9UTXY1Q2QxcHBreDJWOF9CcU5l?oc=5"
-   }
-  },
-  {
-   "n": "Core & Abs Finisher",
-   "focus": "Abs · Obliques · Lower back",
-   "diff": "Beginner",
-   "min": 20,
-   "equip": "Ab wheel, cable or none",
-   "desc": "A short block to add after any session. Anti-extension, rotation and hip-flexor work.",
-   "b": [
-    [
-     "Hanging leg raise",
-     "3×12"
-    ],
-    [
-     "Ab wheel rollout",
-     "3×10"
-    ],
-    [
-     "Russian twist",
-     "3×20"
-    ],
-    [
-     "Woodchopper",
-     "3×12"
-    ],
-    [
-     "Dead bug",
-     "3×12"
-    ],
-    [
-     "Plank",
-     "3×45"
-    ]
-   ],
-   "mentions": 2,
-   "why": "Appeared in 2 news stories this past week.",
-   "src": {
-    "t": "Inside the AI-Powered Mortal Kombat II Workout That Got This 30-Something a Shredded Six-Pack in 12 Weeks - Men's Journal",
-    "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRzRXMnBYeFdRYXdEdVJCRmpPQThZMmNubUhPcE5zcUtUVGlHc2ZCSVA3U0VUOWYzZGZORWlRbUQ1cUVHWUZxaTJRSElEN3gzamRRN20yV2xpWTBuTjdRWUFuM0Nfbi13NlZjY1Fna21RaGdFbmlDbEJSMTJyNEg4amdRdlQ5dVRKSnZBbg?oc=5"
-   }
-  },
-  {
-   "n": "Upper Body",
-   "focus": "Chest · Back · Shoulders · Arms",
-   "diff": "Intermediate",
-   "min": 60,
-   "equip": "Barbell, dumbbells, cable",
-   "desc": "The upper day of an upper/lower split with a press and a pull in each plane.",
-   "b": [
-    [
-     "Incline bench press",
-     "4×8"
-    ],
-    [
-     "Barbell row",
-     "4×8"
-    ],
-    [
-     "Dumbbell shoulder press",
-     "3×10"
-    ],
-    [
-     "Lat pulldown",
-     "3×10"
-    ],
-    [
-     "Dumbbell curl",
-     "3×12"
-    ],
-    [
-     "Triceps pushdown",
-     "3×12"
-    ]
-   ],
-   "mentions": 2,
-   "why": "Appeared in 2 news stories this past week.",
-   "src": {
-    "t": "2x Mr. Olympia Derek Lunsford Reveals the High-Intensity Chest Workout Behind His Massive Upper Body - Yahoo Sports",
-    "u": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPeGNwOGhURUJNWWRTc0hEQUdpTkFsOG1vQ1VTa2J4cFZXOVdHNGtHd293bFdmcFN5Xy1BakhsZkxXWFlMU0huWW9xNElfZVBPVE4tVkxYU3FLdVBnSzZyU1U2d3VqdUQ3V25YWUZ3aG1wWm1LUXlHNk1Uek5hM194X3BTQQ?oc=5"
+    "t": "Zac Efron’s Trainer Shares His 45-Minute Full-Body Workout for Building Muscle and Boosting Conditioning - Men's Journal",
+    "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSmRGY3hFYV9iVjlJQTVZVEpnSGJTeTNEOUd1aWQxT3d2T2h6WV80NjA4S3Q3RkYtOWRWdUdIVWtrbnlLR2xabjhRMXRDYjRaZm43ZjE4dnN3NGhWX3BnZUxQNUpVaWxfNGtlUjY2U00xSXYxWnp2ZUNaRFhfQmVGQU5oUkRSdElPR3RWZ1lhNW5DZW5PM01SdHlVRGpVWE5MTE9JWWZwUUZvUjhFWmNN?oc=5"
    }
   },
   {
@@ -238,8 +78,128 @@
    "mentions": 1,
    "why": "Appeared in 1 news story this past week.",
    "src": {
-    "t": "I Did a Simple Bodyweight Workout Every Day for 30 Days – Here's How My Strength and Physique Changed - menshealth.com",
+    "t": "I Did a Simple Bodyweight Workout Every Day for 30 Days – Here's How My Strength and Physique Changed - Men's Health",
     "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORmdaOEVFTnpqM2NBbWxkeVFpZjBCc2l1V3RYaEdsdlJzdmFoS0NIblhQWk9NeXVwbnU1Z0psMU5oenh4UW5sUVlJamRMTE1Pb2NHdHZoRVlJMjlqLVMyaU5GM0o5QWhGakx0VkM0YlRCRXRScVZucHRCSDFja0dVNFpXU0dKUGxjNW9YQkhrZXBITGpOR21mWg?oc=5"
+   }
+  },
+  {
+   "n": "Arm Day",
+   "focus": "Biceps · Triceps · Forearms",
+   "diff": "Beginner",
+   "min": 45,
+   "equip": "Barbell, dumbbells, cable",
+   "desc": "Direct arm work with a heavy compound opener and supersets if you want to save time.",
+   "b": [
+    [
+     "Close-grip bench press",
+     "4×8"
+    ],
+    [
+     "Dumbbell curl",
+     "4×10"
+    ],
+    [
+     "Triceps pushdown",
+     "3×12"
+    ],
+    [
+     "Hammer curl",
+     "3×12"
+    ],
+    [
+     "Rope pushdown",
+     "3×12"
+    ],
+    [
+     "Reverse curl",
+     "3×12"
+    ]
+   ],
+   "mentions": 1,
+   "why": "Appeared in 1 news story this past week.",
+   "src": {
+    "t": "Take the 'Bicep Curl Man Test' – Pump up Your Arms with This Efficient Muscle-building Challenge - Men's Health",
+    "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTE01OGx2V0NxV0xyWDAzTkJYVFNaRzNmcVZPU05oXzdrc2FveWZlaG5HTUsxazRPdENGLW5HUmVaWXdnMVg4LVpoem1DLVZBTWtfUE85Zy1lc25jTWFWcjJDUW1uYTBCdjgyUjlQbnd0RUJybHRPbTBMMg?oc=5"
+   }
+  },
+  {
+   "n": "Upper Body",
+   "focus": "Chest · Back · Shoulders · Arms",
+   "diff": "Intermediate",
+   "min": 60,
+   "equip": "Barbell, dumbbells, cable",
+   "desc": "The upper day of an upper/lower split with a press and a pull in each plane.",
+   "b": [
+    [
+     "Incline bench press",
+     "4×8"
+    ],
+    [
+     "Barbell row",
+     "4×8"
+    ],
+    [
+     "Dumbbell shoulder press",
+     "3×10"
+    ],
+    [
+     "Lat pulldown",
+     "3×10"
+    ],
+    [
+     "Dumbbell curl",
+     "3×12"
+    ],
+    [
+     "Triceps pushdown",
+     "3×12"
+    ]
+   ],
+   "mentions": 1,
+   "why": "Appeared in 1 news story this past week.",
+   "src": {
+    "t": "3 Best Exercises for a Wider Upper Body Without Bench Pressing - BOXROX",
+    "u": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQeW1WZHpGTVQyZ3BETzVEVFhFbVFvdFBIM0J6MTdRTWdxbE9BWjlTQkhzdFZGdVdqVE56WkhhMUFSNk9QSlhoM3NtcXJRdGQwYVFjUWthVkxESnJGRVNwcGt6RkUzQjYycktsdGxOVlBXRm9BZk9IRjBxM1hvRFRyTk9WcHo3Z0NSUWFDRHdjQQ?oc=5"
+   }
+  },
+  {
+   "n": "Hyrox-Style Session",
+   "focus": "Hybrid fitness · Racing",
+   "diff": "Advanced",
+   "min": 60,
+   "equip": "Sled, rower, SkiErg, wall ball",
+   "desc": "Alternates running with functional stations like sleds, rowing and wall balls, like a fitness race.",
+   "b": [
+    [
+     "Run",
+     "800 m"
+    ],
+    [
+     "SkiErg",
+     "3×500 m"
+    ],
+    [
+     "Sled push",
+     "3×25 m"
+    ],
+    [
+     "Wall balls",
+     "3×20"
+    ],
+    [
+     "Row (erg)",
+     "3×500 m"
+    ],
+    [
+     "Sandbag lunges",
+     "3×20"
+    ]
+   ],
+   "mentions": 1,
+   "why": "Appeared in 1 news story this past week.",
+   "src": {
+    "t": "2 Jalandhar youth complete hyrox challenge in Mumbai - The Tribune",
+    "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxQOXlHVWtOTVUycndHUFZVTG05REVTLXVfbUt3ZUJBQkdFb2kzNVVkeXFKRDhHOUtjVmlVLWdUcmp6ekdtei1pZ0NJM1o0QXFzR28tSUkxM2U4V3VFekpGUGtWamFzZ2E2amZ5T0pDbnVoemVkbGRRdnM4aDB1cEJRZlllZ0wxVEJ0d2NXWWI4bk5iUktickVCczZLbEo3Z9IBogFBVV95cUxQbzN2b2xDZlQzQk5CU2ZKbG4zSzJ0LVpxdFpkSDFSRndFM2tIaEdHQUlWZm4yLS1QNjZLY3pJR0h1WUVyQldac044S2VZRldJV0NYVTA2aS1HMFdNXzBISHo2RmpmanMzY2JNMkFtcDdZdWlBX2R3V2d3aVZvcENmd2JlVFFkX1VGNTBZVVJfclQ2ZlcxLXU3ekZEbjdpVVY1R2c?oc=5"
    }
   },
   {
@@ -283,6 +243,74 @@
    }
   },
   {
+   "n": "Core & Abs Finisher",
+   "focus": "Abs · Obliques · Lower back",
+   "diff": "Beginner",
+   "min": 20,
+   "equip": "Ab wheel, cable or none",
+   "desc": "A short block to add after any session. Anti-extension, rotation and hip-flexor work.",
+   "b": [
+    [
+     "Hanging leg raise",
+     "3×12"
+    ],
+    [
+     "Ab wheel rollout",
+     "3×10"
+    ],
+    [
+     "Russian twist",
+     "3×20"
+    ],
+    [
+     "Woodchopper",
+     "3×12"
+    ],
+    [
+     "Dead bug",
+     "3×12"
+    ],
+    [
+     "Plank",
+     "3×45"
+    ]
+   ],
+   "mentions": 0,
+   "why": "Quick to tack onto the end of a lift."
+  },
+  {
+   "n": "Pull-Up Ladder",
+   "focus": "Back · Grip · Biceps",
+   "diff": "Intermediate",
+   "min": 30,
+   "equip": "Pull-up bar",
+   "desc": "Climb up in reps (1-2-3-4-5), then back down, resting as needed. Builds volume without failure.",
+   "b": [
+    [
+     "Pull-up",
+     "5×5"
+    ],
+    [
+     "Chin-up",
+     "3×6"
+    ],
+    [
+     "Inverted row",
+     "3×12"
+    ],
+    [
+     "Hanging leg raise",
+     "3×10"
+    ],
+    [
+     "Hammer curl",
+     "3×12"
+    ]
+   ],
+   "mentions": 0,
+   "why": "A simple way to add pull-up volume."
+  },
+  {
    "n": "Leg Day",
    "focus": "Quads · Hamstrings · Calves",
    "diff": "Intermediate",
@@ -315,80 +343,40 @@
      "4×15"
     ]
    ],
-   "mentions": 1,
-   "why": "Appeared in 1 news story this past week.",
-   "src": {
-    "t": "This Leg Day Builds Strength and Muscle in Only 30 Minutes - Women's Health",
-    "u": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1RRW15Q3BrS2hoQzNYbmNJQnl2NFBiOVFVMlRCS2pKTWpEZDZ1REU1Y0tkeXg0cVdyNUxnamZvdU9JVHFVdF9jMG53Rjg3TlFOdnJXOG42N0JJZ1ZzdlpjUjAzem1ORU0xMWhWQkE3aDlncEdWMzBPelRwRnlpUQ?oc=5"
-   }
+   "mentions": 0,
+   "why": "Big compound lifts that train the most muscle in one session."
   },
   {
-   "n": "HIIT Intervals",
-   "focus": "Conditioning · Fat burn",
-   "diff": "Advanced",
-   "min": 25,
-   "equip": "Bike or open space",
-   "desc": "Short, hard efforts with rest between. Keep the quality high and stop when form slips.",
+   "n": "Posterior Chain",
+   "focus": "Glutes · Hamstrings · Lower back",
+   "diff": "Intermediate",
+   "min": 55,
+   "equip": "Barbell, dumbbells, kettlebell",
+   "desc": "Hip-hinge focused session for glutes and hamstrings, finished with swings.",
    "b": [
     [
-     "Assault bike",
-     "10 min"
-    ],
-    [
-     "Burpee",
-     "4×12"
-    ],
-    [
-     "Box jump",
+     "Romanian deadlift",
      "4×8"
     ],
     [
-     "Mountain climber",
-     "4×30"
+     "Glute bridge",
+     "4×12"
     ],
     [
-     "Jump rope",
-     "4×60"
-    ]
-   ],
-   "mentions": 1,
-   "why": "Appeared in 1 news story this past week.",
-   "src": {
-    "t": "2x Mr. Olympia Derek Lunsford Reveals the High-Intensity Chest Workout Behind His Massive Upper Body - Yahoo Sports",
-    "u": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPeGNwOGhURUJNWWRTc0hEQUdpTkFsOG1vQ1VTa2J4cFZXOVdHNGtHd293bFdmcFN5Xy1BakhsZkxXWFlMU0huWW9xNElfZVBPVE4tVkxYU3FLdVBnSzZyU1U2d3VqdUQ3V25YWUZ3aG1wWm1LUXlHNk1Uek5hM194X3BTQQ?oc=5"
-   }
-  },
-  {
-   "n": "Tabata Burn",
-   "focus": "Conditioning",
-   "diff": "Intermediate",
-   "min": 20,
-   "equip": "None",
-   "desc": "Eight rounds of 20 seconds hard, 10 seconds rest, across a few moves.",
-   "b": [
-    [
-     "Burpee",
-     "8×20"
+     "Bulgarian split squat",
+     "3×10"
     ],
     [
-     "Mountain climber",
-     "8×20"
+     "Seated leg curl",
+     "3×12"
     ],
     [
-     "Squat jump",
-     "8×20"
-    ],
-    [
-     "Push-up",
-     "8×20"
-    ],
-    [
-     "Jump rope",
-     "8×20"
+     "Kettlebell swing",
+     "3×15"
     ]
    ],
    "mentions": 0,
-   "why": "A short, structured interval format that fits any schedule."
+   "why": "Strong hips help every other lift and protect the lower back."
   }
  ]
 }
